@@ -1,0 +1,1284 @@
+>sp|P19916|DCML_PSECH Carbon monoxide dehydrogenase large chain (Fragment) OS=Pseudomonas carboxydohydrogena OX=290 GN=cutL PE=1 SV=1
+MGHP
+>sp|P58649|OCP3_CALMC Cardioactive peptide Ocp-3/Ocp-4 OS=Callistoctopus minor OX=515824 PE=1 SV=1
+GSWD
+>sp|C0HJT2|NDBP8_TITSE Venom peptide 8 OS=Tityus serrulatus OX=6887 PE=1 SV=1
+KIWRS
+>sp|P12997|BIOB_CITFR Biotin synthase (Fragment) OS=Citrobacter freundii OX=546 GN=bioB PE=3 SV=1
+MAHSS
+>sp|P13071|BIOA_CITFR Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (Fragment) OS=Citrobacter freundii OX=546 GN=bioA PE=3 SV=1
+MTTDD
+>sp|P19991|SUGA_ACHDO Subesophageal ganglion pentapeptide OS=Acheta domesticus OX=6997 PE=1 SV=1
+AAAPF
+>sp|P41853|FARP_ARTTR FMRFamide-like neuropeptide RYIRF-amide OS=Arthurdendyus triangulatus OX=132421 PE=1 SV=1
+RYIRF
+>sp|P58261|PSK_DAUCA Phytosulfokine-alpha OS=Daucus carota OX=4039 PE=1 SV=1
+YIYTQ
+>sp|P67857|PRCT_CARMA Proctolin OS=Carcinus maenas OX=6759 PE=1 SV=1
+RYLPT
+>sp|P69203|RPC2_BPP21 Repressor protein C2 (Fragment) OS=Enterobacteria phage P21 OX=10711 GN=C2 PE=4 SV=1
+MNTQL
+>sp|P80628|UC22_MAIZE Unknown protein from spot 474 of 2D-PAGE of etiolated coleoptile (Fragment) OS=Zea mays OX=4577 PE=1 SV=1
+IFFEV
+>sp|P80826|CWP02_ARATH 65 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+EDRTY
+>sp|P80831|CWP07_ARATH 34 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+EQDRR
+>sp|P81864|PAP2_PARMA Pardaxin-2 (Fragment) OS=Pardachirus marmoratus OX=31087 PE=1 SV=1
+GFFFP
+>sp|P82070|RBE11_LITRU Rubellidin-1.1 OS=Litoria rubella OX=104895 PE=1 SV=1
+VDFFA
+>sp|P82071|RBE21_LITRU Rubellidin-2.1 OS=Litoria rubella OX=104895 PE=1 SV=1
+IEFFA
+>sp|P82072|RBE31_LITRU Rubellidin-3.1 OS=Litoria rubella OX=104895 PE=1 SV=1
+IEFFT
+>sp|P82099|EI03_LITRU Electrin-3 OS=Litoria rubella OX=104895 PE=1 SV=1
+FVHPM
+>sp|P82100|EI04_LITRU Electrin-4 OS=Litoria rubella OX=104895 PE=1 SV=1
+FITVH
+>sp|P83073|88KD_BACCE 88 kDa protein (Fragment) OS=Bacillus cereus OX=1396 PE=1 SV=1
+MKDTE
+>sp|P83308|FARP_CHICK FMRFamide-like neuropeptide OS=Gallus gallus OX=9031 PE=1 SV=1
+LPLRF
+>sp|P84573|TY51_PITHY Tryptophyllin-5.1 OS=Pithecopus hypochondrialis OX=317381 PE=1 SV=1
+FPPWL
+>sp|P84943|TY22_PITAZ Tryptophyllin-T2-2 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+FPPWE
+>sp|P84948|TY24_PITAZ Tryptophyllin-T2-4 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+FPPWM
+>sp|P84952|TY21_PITAZ Tryptophyllin-T2-1 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+FPPWF
+>sp|P85089|GTF2_LEUME Dextransucrase 2 (Fragment) OS=Leuconostoc mesenteroides OX=1245 GN=dsrF PE=1 SV=1
+DSTNY
+>sp|P86455|EUDIS_EUDSF Eudistomide OS=Eudistoma sp. (strain FJ04-12-071) OX=715217 PE=1 SV=1
+CPPLC
+>sp|C0HM49|PEP2_CROSI Peptide 2 (Fragment) OS=Crocodylus siamensis OX=68455 PE=1 SV=1
+VPPHIY
+>sp|P0CU57|CYAA_AMAPH Cycloamanide A OS=Amanita phalloides OX=67723 PE=3 SV=1
+VFFAGP
+>sp|P0DUC5|COW_CONCS Contryphan Co838/Co854 OS=Conus coronatus OX=89441 PE=1 SV=1
+CWFPWC
+>sp|P13736|CIP1_MYTED Contraction-inhibiting peptide 1 OS=Mytilus edulis OX=6550 PE=1 SV=1
+GSPMFV
+>sp|P13737|CIP2_MYTED Contraction-inhibiting peptide 2 OS=Mytilus edulis OX=6550 PE=1 SV=1
+GAPMFV
+>sp|P23210|VP19_HHV1K Triplex capsid protein VP19C (Fragment) OS=Human herpesvirus 1 (strain KOS) OX=10306 GN=UL38 PE=3 SV=1
+MKTNPL
+>sp|P36414|TRPI_PSEPU HTH-type transcriptional regulator TrpI (Fragment) OS=Pseudomonas putida OX=303 GN=trpI PE=3 SV=1
+MAHDLP
+>sp|P41495|TMOF_SARBU Trypsin-modulating oostatic factor OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+NPTNLH
+>sp|P41966|FARP_MONEX FMRFamide-like neuropeptide GNFFRF-amide OS=Moniezia expansa OX=28841 PE=1 SV=1
+GNFFRF
+>sp|P42985|OVM_LEPDE Oviductal motility-stimulating peptide OS=Leptinotarsa decemlineata OX=7539 PE=1 SV=1
+IAYKPE
+>sp|P80847|CWP27_ARATH 60 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+DVGKFK
+>sp|P80849|CWP29_ARATH 36 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+EDLPEK
+>sp|P82096|EI01_LITRU Electrin-1 OS=Litoria rubella OX=104895 PE=1 SV=1
+FVPIWM
+>sp|P84575|MAF_SCHMA Male-attracting factor (Fragment) OS=Schistosoma mansoni OX=6183 PE=1 SV=1
+QVHHQK
+>sp|P84833|TY3_ASCTR Tryptophyllin-3 OS=Ascaphus truei OX=8439 PE=1 SV=1
+DPWDWV
+>sp|P84941|TY25_PITAZ Tryptophyllin-T2-5 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+LPPWIG
+>sp|P84946|TY26_PITAZ Tryptophyllin-T2-6 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+KPPWRL
+>sp|P84947|TY27_PITAZ Tryptophyllin-T2-7 OS=Pithecopus azureus OX=2034991 PE=1 SV=2
+KPWERL
+>sp|P84953|TY28_PITAZ Tryptophyllin-T2-8 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+KPWERE
+>sp|P85003|CYCLE_ANNCH Cyclopeptide E OS=Annona cherimola OX=49314 PE=1 SV=1
+PGLGFY
+>sp|P85080|GTF3_LEUME Dextransucrase (Fragment) OS=Leuconostoc mesenteroides OX=1245 PE=1 SV=1
+DSTNTV
+>sp|P85330|PG76K_BISBO Unknown placental glycoprotein 76K (Fragment) OS=Bison bonasus OX=9902 PE=1 SV=1
+SPEFTV
+>sp|P85372|SMP05_NAUMA Uncharacterized protein SMPP5 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+FAPCPK
+>sp|P85373|SMP06_NAUMA Uncharacterized protein SMPP6 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+ADLFLR
+>sp|P85389|IMP01_NAUMA Uncharacterized protein IMPP1 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+FVSTYK
+>sp|P85877|TY14_PITCE Tryptophyllin-14 OS=Pithecopus centralis OX=536631 PE=1 SV=1
+FPPWVL
+>sp|P86012|CUTI2_COLKA Cutinase 2 (Fragment) OS=Colletotrichum kahawae OX=34407 PE=1 SV=1
+DINGGA
+>sp|P86428|BRK3_PITNO Bradykinin-related peptide Pnor-3 OS=Pithecopus nordestinus OX=2034992 PE=1 SV=1
+KPLWRL
+>sp|B0M2U2|PPK1_NAMOO Pyrokinin-1 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+DGYTPRL
+>sp|B0M3A0|FAR1_STRNA Extended FMRFamide-1 OS=Striatophasma naukluftense OX=1041429 PE=1 SV=1
+AQSFLRL
+>sp|B3A0H6|FAR1_TYRGL Extended FMRFamide-1 OS=Tyrannophasma gladiator OX=270861 PE=1 SV=1
+AQSFVRL
+>sp|B3EWJ9|FAR3_DELRA FMRFamide-like neuropeptide PDNFMRF-amide OS=Delia radicum OX=30064 PE=1 SV=1
+PDNFMRF
+>sp|C0HLM4|CARP_RHIAZ Rhizopuspepsin (Fragment) OS=Rhizopus azygosporus OX=86630 PE=1 SV=1
+AGVGTVP
+>sp|C0HLM7|UP01_ELAGV Unknown protein 1 (Fragment) OS=Elaeis guineensis var. tenera OX=51953 PE=1 SV=1
+STEQEDP
+>sp|P01153|HY7_PIG Hypothalamic heptapeptide OS=Sus scrofa OX=9823 PE=1 SV=1
+FIYHSYK
+>sp|P06294|IGAO_GIBZA Galactose oxidase inhibitor OS=Gibberella zeae OX=5518 PE=1 SV=1
+AGQNTES
+>sp|P0C2K8|X6_LOXGA Dermonecrotic toxin LgSicTox-LOXN6 (Fragment) OS=Loxosceles gaucho OX=58216 PE=1 SV=1
+DDKRRQI
+>sp|P0C8W7|P1196_TITST Peptide 1196 (Fragment) OS=Tityus stigmurus OX=50344 PE=1 SV=1
+KIKETNA
+>sp|P0DUC4|COW_CONZO Contryphan Zo747/Zo763 OS=Conus zonatus OX=754466 PE=1 SV=1
+SPCPFPC
+>sp|P0DUC8|COW34_CONLI Contryphan Li834 OS=Conus lividus OX=89426 PE=1 SV=1
+CYRPPVC
+>sp|P10420|CARP_MYTED Catch-relaxing peptide OS=Mytilus edulis OX=6550 PE=1 SV=1
+AMPMLRL
+>sp|P11932|CIA_ENTFL Sex pheromone cAM373 OS=Enterococcus faecalis OX=1351 PE=1 SV=1
+AIFILAS
+>sp|P16101|CHOX_ALCSP Choline oxidase (Fragment) OS=Alcaligenes sp OX=512 PE=1 SV=1
+DNPNHSR
+>sp|P20104|CCF1_ENTFL Sex pheromone cCF10 OS=Enterococcus faecalis OX=1351 PE=1 SV=1
+LVTLVFV
+>sp|P31889|FAF1_ASCSU FMRFamide-like neuropeptide AF1 OS=Ascaris suum OX=6253 PE=1 SV=1
+KNEFIRF
+>sp|P35919|WWA1_LISFU WWamide-1 OS=Lissachatina fulica OX=2315439 PE=1 SV=1
+WREMSVW
+>sp|P35920|WWA2_LISFU WWamide-2 OS=Lissachatina fulica OX=2315439 PE=1 SV=1
+WKQMSVW
+>sp|P35921|WWA3_LISFU WWamide-3 OS=Lissachatina fulica OX=2315439 PE=1 SV=1
+WKEMSVW
+>sp|P36960|LANC_CARUI Lantibiotic carnocin-UI49 (Fragment) OS=Carnobacterium sp. (strain UI49) OX=35782 PE=1 SV=1
+GSEIQPR
+>sp|P38641|UF03_MOUSE Unknown protein from 2D-PAGE of fibroblasts (Fragment) OS=Mus musculus OX=10090 PE=1 SV=1
+HEEAELD
+>sp|P38642|UF04_MOUSE Unknown protein from 2D-PAGE of fibroblasts (Fragment) OS=Mus musculus OX=10090 PE=1 SV=1
+PKPPDRG
+>sp|P41871|FAR1_PLATR FMRFamide-like neuropeptide GDPFLRF-amide OS=Planorbella trivolvis OX=283763 PE=1 SV=1
+GDPFLRF
+>sp|P41874|FAR3_PANRE FMRFamide-like neuropeptide PF3 OS=Panagrellus redivivus OX=6233 PE=1 SV=1
+KSAYMRF
+>sp|P41875|FAR4_PANRE FMRFamide-like neuropeptide PF4 OS=Panagrellus redivivus OX=6233 PE=1 SV=1
+KPNFIRF
+>sp|P42564|FAR5_HIRME FMRFamide-like neuropeptide GGKYMRF-amide OS=Hirudo medicinalis OX=6421 PE=1 SV=1
+GGKYMRF
+>sp|P42984|MNP1_LEPDE Myotropic neuropeptide 1 OS=Leptinotarsa decemlineata OX=7539 PE=1 SV=1
+AYNGPLA
+>sp|P56576|UH11_RAT Unknown protein from spot P11 of 2D-PAGE of heart tissue (Fragment) OS=Rattus norvegicus OX=10116 PE=1 SV=1
+QSAREQG
+>sp|P58803|BRHP_CONIM Bromoheptapeptide Im OS=Conus imperialis OX=35631 PE=1 SV=1
+QCGQAWC
+>sp|P67879|FAF2_ASCSU FMRFamide-like neuropeptide AF2 OS=Ascaris suum OX=6253 PE=1 SV=1
+KHEYLRF
+>sp|P80630|UC24_MAIZE Unknown protein from spot 447 of 2D-PAGE of etiolated coleoptile (Fragment) OS=Zea mays OX=4577 PE=1 SV=1
+STAKSTA
+>sp|P80758|CWP08_DAUCA 56 kDa cell wall protein (Fragment) OS=Daucus carota OX=4039 PE=1 SV=1
+SQEDTPL
+>sp|P80759|CWP09_DAUCA 30 kDa cell wall protein (Fragment) OS=Daucus carota OX=4039 PE=1 SV=1
+ATNPSGQ
+>sp|P80797|CWP20_TOBAC 46 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+GPEEWVK
+>sp|P80813|CWP17_SOLLC 22 kDa cell wall protein (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+MNIPPGD
+>sp|P80827|CWP03_ARATH 60 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+KGVNDGT
+>sp|P80830|CWP06_ARATH 42 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+EYFIGVN
+>sp|P81675|UN06_PINPS Unknown protein from 2D-PAGE of needles (Fragment) OS=Pinus pinaster OX=71647 PE=1 SV=1
+LYGNLPF
+>sp|P81805|ALL2_CARMA Carcinustatin-2 OS=Carcinus maenas OX=6759 PE=1 SV=1
+EAYAFGL
+>sp|P81806|ALL3_CARMA Carcinustatin-3 OS=Carcinus maenas OX=6759 PE=1 SV=1
+EPYAFGL
+>sp|P81807|ALL4_CARMA Carcinustatin-4 OS=Carcinus maenas OX=6759 PE=1 SV=1
+DPYAFGL
+>sp|P81808|ALL5_CARMA Carcinustatin-5 OS=Carcinus maenas OX=6759 PE=1 SV=1
+NPYAFGL
+>sp|P82065|TY51_LITRU Tryptophyllin-5.1 OS=Litoria rubella OX=104895 PE=1 SV=1
+QIPWFHR
+>sp|P82101|EI05_LITRU Electrin-5 OS=Litoria rubella OX=104895 PE=1 SV=1
+IYEPEIA
+>sp|P82158|ALL7_CYDPO Cydiastatin-7 OS=Cydia pomonella OX=82600 PE=1 SV=1
+KMYDFGL
+>sp|P82445|CWP37_TOBAC 10 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+VTVGHVF
+>sp|P83379|PPH2_SOLLC Purple acid phosphatase isozyme LeSAP2 (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+FLFVGDL
+>sp|P83530|UP02_FRUSA Unknown protein 2 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+VTLDVED
+>sp|P84071|ASCL_ALLCG Ascalin (Fragment) OS=Allium cepa var. aggregatum OX=28911 PE=1 SV=1
+YQCGQGG
+>sp|P84523|DEM_PITHY Dermorphin OS=Pithecopus hypochondrialis OX=317381 PE=1 SV=1
+YAFGYPS
+>sp|P84944|TY29_PITAZ Tryptophyllin-T2-9 OS=Pithecopus azureus OX=2034991 PE=1 SV=1
+VPPIGWF
+>sp|P85014|CONOM_CONVL Conophan vil-M OS=Conus villepinii OX=257347 PE=1 SV=1
+EPNSMWS
+>sp|P85015|CONOI_CONVL Conophan vil-I'/vil-I'(O2P) OS=Conus villepinii OX=257347 PE=1 SV=1
+EPNSIWS
+>sp|P85067|OJP1_SEPOF Ovarian jelly-peptide 1 OS=Sepia officinalis OX=6610 PE=1 SV=1
+DQVKIVL
+>sp|P85106|NPF_HELZE Neuropeptide F (Fragment) OS=Helicoverpa zea OX=7113 PE=1 SV=1
+QAARPRF
+>sp|P85160|BPP7A_BOTJA Bradykinin-potentiating peptide 7a OS=Bothrops jararaca OX=8724 PE=1 SV=1
+QDGPIPP
+>sp|P85363|VIRTX_AMAVR Virotoxin OS=Amanita virosa OX=78357 PE=1 SV=1
+AWLVTCP
+>sp|P85393|IMP03_NAUMA Uncharacterized protein IMPP3 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+YLTCNLR
+>sp|P85407|UP09_GINBI Unknown protein 9 (Fragment) OS=Ginkgo biloba OX=3311 PE=1 SV=1
+STDALSK
+>sp|P85472|FAR13_SARBU FMRFamide-13 OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+TNDFMRF
+>sp|P85934|UP20_PSEMZ Unknown protein 20 (Fragment) OS=Pseudotsuga menziesii OX=3357 PE=1 SV=1
+NNLDEIK
+>sp|P86010|CUTI1_COLKA Cutinase 1 (Fragment) OS=Colletotrichum kahawae OX=34407 PE=1 SV=1
+VIYIFAR
+>sp|P86111|VP05_OPICY Venom peptide Ocy5 (Fragment) OS=Opisthacanthus cayaporum OX=573324 PE=1 SV=1
+LGKSVTN
+>sp|P86168|COLUA_COLDE Colutellin-A (Fragment) OS=Colletotrichum dematium OX=34405 PE=1 SV=1
+VISIIPV
+>sp|P86285|DELT_PHYBU Deltorphin-like peptide OS=Phyllomedusa burmeisteri OX=39413 PE=1 SV=1
+YMFHLMN
+>sp|P86482|PE15_LITPE Peroniin-1.5 OS=Litoria peronii OX=317363 PE=1 SV=1
+QPWLPFR
+>sp|P86492|PE13_LITPE Peroniin-1.3 OS=Litoria peronii OX=317363 PE=1 SV=1
+QPWLPFV
+>sp|P86494|PE14_LITPE Peroniin-1.4 OS=Litoria peronii OX=317363 PE=1 SV=1
+QTWLPFV
+>sp|P86634|DELT_PHAJA [D-Met2]-deltorphin OS=Phasmahyla jandaia OX=762504 PE=1 SV=1
+YMFHLMD
+>sp|P86827|NDB4U_TITSE Venom peptide 6 OS=Tityus serrulatus OX=6887 PE=1 SV=1
+FGVLNFF
+>sp|Q47505|MCCC7_ECOLX Microcin C7 OS=Escherichia coli OX=562 GN=mccA PE=1 SV=1
+MRTGNAN
+>sp|B0M2T5|FAR5_NAMOO Extended FMRFamide-5 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+TDRNFLRL
+>sp|B0M2U3|PPK2_NAMOO Pyrokinin-2 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+SPPFAPRL
+>sp|B0M2U4|PPK3_NAMOO Pyrokinin-3 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+DPPFSPRL
+>sp|B0M2U5|AKH_NAMOO Adipokinetic hormone OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+QVNFTPGW
+>sp|B0M3C0|AKH_STRNA Adipokinetic hormone OS=Striatophasma naukluftense OX=1041429 PE=1 SV=1
+QVNFTPSW
+>sp|B0M3E0|PPK3_MANKU Pyrokinin-3 OS=Mantophasma kudubergense OX=1037657 PE=1 SV=1
+DPPFAPRM
+>sp|B3EWG1|RPCH_PENME Red pigment-concentrating hormone OS=Penaeus merguiensis OX=71412 PE=1 SV=2
+QLNFSPGW
+>sp|B3EWI2|ALLA1_DELRA Allatostatin-A1 OS=Delia radicum OX=30064 PE=1 SV=1
+ARPYSFGL
+>sp|B3EWJ3|ALLA2_DELRA Allatostatin-A2 OS=Delia radicum OX=30064 PE=1 SV=1
+NRPYSFGL
+>sp|B3EWJ4|ALLA3_DELRA Allatostatin-A3 OS=Delia radicum OX=30064 PE=1 SV=1
+VERYAFGL
+>sp|B3EWK0|FAR4_DELRA FMRFamide-like neuropeptide GGNDFMRF-amide OS=Delia radicum OX=30064 PE=1 SV=1
+GGNDFMRF
+>sp|B3EWK9|YAMD_DELRA Neuropeptide Y-amide OS=Delia radicum OX=30064 PE=1 SV=1
+LPSIGHYY
+>sp|B3EWL5|PK2_DELRA HUG-Pyrokinin OS=Delia radicum OX=30064 PE=1 SV=1
+SVQFKPRL
+>sp|B3EWM7|AKH_DELRA Adipokinetic hormone OS=Delia radicum OX=30064 PE=1 SV=1
+QLTFSPDW
+>sp|B3EWR9|OLVTN_PHONI Oligoventin OS=Phoneutria nigriventer OX=6918 PE=1 SV=1
+QPFSLERW
+>sp|C0HJB2|LAC_SANBA Laccase (Fragment) OS=Sanghuangporus baumii OX=108892 PE=1 SV=1
+AIGPVDEV
+>sp|C0HJC5|ALBU_DUTME Serum albumin (Fragment) OS=Duttaphrynus melanostictus OX=30335 PE=1 SV=1
+EAEPHSRI
+>sp|C0HJF1|ECHMN_ECHLU Echinometrin OS=Echinometra lucunter OX=105361 PE=1 SV=1
+LRKLMLQR
+>sp|C0HJG0|ALL13_ACTDE Allergen Act d 13 (Fragment) OS=Actinidia deliciosa OX=3627 PE=1 SV=1
+GPQQQHRL
+>sp|P0C229|CCKN_MACGI Cholecystokinin OS=Macropus giganteus OX=9317 GN=CCK PE=1 SV=1
+DYMGWMDF
+>sp|P0C249|COW_CONIN Contryphan-In OS=Conus inscriptus OX=257329 PE=1 SV=1
+GCVLYPWC
+>sp|P0C2K7|X5_LOXGA Dermonecrotic toxin LgSicTox-LOXN5 (Fragment) OS=Loxosceles gaucho OX=58216 PE=1 SV=1
+GDTRRQIL
+>sp|P0CU59|CYAC_AMAPH Cycloamanide C OS=Amanita phalloides OX=67723 PE=1 SV=1
+MLGFLVLP
+>sp|P0CU60|CYAD_AMAPH Cycloamanide D OS=Amanita phalloides OX=67723 PE=1 SV=1
+MLGFLPLP
+>sp|P0DKS4|FP_TAKOB Flavor peptide OS=Takifugu obscurus OX=309541 PE=1 SV=1
+YGGTPPFV
+>sp|P0DP13|COWB_CONFI Contryphan-Fib OS=Conus figulinus OX=101301 PE=1 SV=1
+GCPWMPWC
+>sp|P0DP14|COWC_CONFI Contryphan-Fic OS=Conus figulinus OX=101301 PE=1 SV=1
+GCPWDPWC
+>sp|P0DPN7|YMDG_ECOLI Protein YmdG OS=Escherichia coli (strain K12) OX=83333 GN=ymdG PE=1 SV=2
+MKNSVAEH
+>sp|P0DPQ2|COW2_CONFG Contryphan-Fr2 OS=Conus frigidus OX=101755 PE=1 SV=1
+GCPWDSWC
+>sp|P0DSH2|BAXL_ECOLI Putative translational regulatory protein BaxL OS=Escherichia coli (strain K12) OX=83333 GN=baxL PE=1 SV=1
+MIKSDQET
+>sp|P0DUC6|COW44_CONLI Contryphan Li1044/Li965 OS=Conus lividus OX=89426 PE=1 SV=1
+GCEWVSWC
+>sp|P0DUC7|COW81_CONLI Contryphan Li981 OS=Conus lividus OX=89426 PE=1 SV=1
+GCEWDSWC
+>sp|P0DV72|BPP_BRAEP Bradykinin-potentiating peptide Brachy OS=Brachycephalus ephippium OX=164302 PE=1 SV=1
+WPPPKVSP
+>sp|P13049|LPK_RHYMA Leukopyrokinin OS=Rhyparobia maderae OX=36963 PE=1 SV=3
+QTSFTPRL
+>sp|P13268|CAD1_ENTFL Sex pheromone CAD1 OS=Enterococcus faecalis OX=1351 PE=1 SV=1
+LFSLVLAG
+>sp|P13269|CPD1_ENTFL Sex pheromone cPD1 OS=Enterococcus faecalis OX=1351 PE=1 SV=1
+FLVMFLSG
+>sp|P15507|NPMB_BOVIN Morphine-modulating neuropeptide B OS=Bos taurus OX=9913 PE=1 SV=1
+FLFQPQRF
+>sp|P18691|ACI_THUAL Angiotensin-converting enzyme inhibitor OS=Thunnus albacares OX=8236 PE=1 SV=1
+PTHIKWGD
+>sp|P19987|LCK5_RHYMA Leucokinin-5 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+GSGFSSWG
+>sp|P19988|LCK6_RHYMA Leucokinin-6 OS=Rhyparobia maderae OX=36963 PE=1 SV=2
+QSSFHSWG
+>sp|P19989|LCK7_RHYMA Leucokinin-7 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+DPAFSSWG
+>sp|P19990|LCK8_RHYMA Leucokinin-8 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+GADFYSWG
+>sp|P21140|LCK1_RHYMA Leucokinin-1 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+DPAFNSWG
+>sp|P21141|LCK2_RHYMA Leucokinin-2 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+DPGFSSWG
+>sp|P21142|LCK3_RHYMA Leucokinin-3 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+DQGFNSWG
+>sp|P21143|LCK4_RHYMA Leucokinin-4 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+DASFHSWG
+>sp|P22396|LMT2_LOCMI Locustamyotropin-2 OS=Locusta migratoria OX=7004 PE=1 SV=1
+EGDFTPRL
+>sp|P23211|LPMS_STAEP Probable msrA leader peptide OS=Staphylococcus epidermidis OX=1282 PE=4 SV=1
+MTASMRLK
+>sp|P38644|UF06_MOUSE Unknown protein from 2D-PAGE of fibroblasts (Fragment) OS=Mus musculus OX=10090 PE=1 SV=1
+HSEPGGAY
+>sp|P41486|FAR3_HOMAM FMRFamide-like neuropeptide 3 OS=Homarus americanus OX=6706 PE=1 SV=1
+SDRNFLRF
+>sp|P41487|FAR4_HOMAM FMRFamide-like neuropeptide 4 OS=Homarus americanus OX=6706 PE=1 SV=1
+TNRNFLRF
+>sp|P41840|ALL4_CALVO Callatostatin-4 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+DRPYSFGL
+>sp|P41841|ALL5_CALVO Callatostatin-5 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+GPPYDFGM
+>sp|P41863|FAR8_CALVO CalliFMRFamide-8 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+GANDFMRF
+>sp|P41872|FAR1_PANRE FMRFamide-like neuropeptide PF1 OS=Panagrellus redivivus OX=6233 PE=1 SV=1
+SDPNFLRF
+>sp|P43171|FAR7_ASCSU FMRFamide-like neuropeptide AF7 OS=Ascaris suum OX=6253 PE=1 SV=1
+AGPRFIRF
+>sp|P56575|UH09_RAT Unknown protein from spot P9 of 2D-PAGE of heart tissue (Fragment) OS=Rattus norvegicus OX=10116 PE=1 SV=1
+QERRQSPE
+>sp|P58785|COWL_CONPU Leu-contryphan-P OS=Conus purpurascens OX=41690 PE=1 SV=1
+GCVLLPWC
+>sp|P67785|AKHG_GRYBI Adipokinetic hormone G OS=Gryllus bimaculatus OX=6999 PE=1 SV=1
+QVNFSTGW
+>sp|P67789|HTF_TENMO Hypertrehalosaemic factor OS=Tenebrio molitor OX=7067 PE=1 SV=1
+QLNFSPNW
+>sp|P80488|CLP_THIDL Chemolithotroph-specific protein (Fragment) OS=Thiomonas delicata OX=364030 PE=1 SV=1
+APVAQEGN
+>sp|P80632|UC26_MAIZE Unknown protein from spot 907 of 2D-PAGE of etiolated coleoptile (Fragment) OS=Zea mays OX=4577 PE=1 SV=1
+AEPRDQFK
+>sp|P80709|ACT_CARMA Actin (Fragment) OS=Carcinus maenas OX=6759 PE=1 SV=1
+KCDVDIRK
+>sp|P81010|FUSS_FUSVN Allergen Fus s I3596* (Fragment) OS=Fusarium vanettenii OX=2747968 PE=1 SV=1
+TIMSHNVP
+>sp|P81152|NS3_MYCTU 30 kDa non-secretory protein 3 (Fragment) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 PE=1 SV=1
+VVAFERAK
+>sp|P81707|PLP_BRANA Plastidial lipid-associated protein (Fragment) OS=Brassica napus OX=3708 PE=1 SV=1
+VIDVNDEW
+>sp|P81809|ALL7_CARMA Carcinustatin-7 OS=Carcinus maenas OX=6759 PE=1 SV=1
+ASPYAFGL
+>sp|P81811|ALL8_CARMA Carcinustatin-8 OS=Carcinus maenas OX=6759 PE=1 SV=1
+AGPYAFGL
+>sp|P81812|ALL9_CARMA Carcinustatin-9 OS=Carcinus maenas OX=6759 PE=1 SV=1
+GGPYAFGL
+>sp|P81815|ALL12_CARMA Carcinustatin-12 OS=Carcinus maenas OX=6759 PE=1 SV=1
+PDMYAFGL
+>sp|P81818|ALL15_CARMA Carcinustatin-15 OS=Carcinus maenas OX=6759 PE=1 SV=1
+AGPYSFGL
+>sp|P81819|ALL16_CARMA Carcinustatin-16 OS=Carcinus maenas OX=6759 PE=1 SV=1
+GGPYSYGL
+>sp|P81820|ALL17_CARMA Carcinustatin-17 OS=Carcinus maenas OX=6759 PE=1 SV=1
+SGQYSFGL
+>sp|P81821|ALL18_CARMA Carcinustatin-18 OS=Carcinus maenas OX=6759 PE=1 SV=1
+SDMYSFGL
+>sp|P81886|B44K_PORGN 44 kDa immunogenic protein (Fragment) OS=Porphyromonas gingivalis OX=837 PE=1 SV=1
+APYQKRNI
+>sp|P82082|DYS4_LIMSA Dynastin-4 OS=Limnodynastes salmini OX=39404 PE=1 SV=1
+GLVSNLGI
+>sp|P82083|DYS5_LIMSA Dynastin-5 OS=Limnodynastes salmini OX=39404 PE=1 SV=1
+GLISNLGI
+>sp|P82152|ALL1_CYDPO Cydiastatin-1 OS=Cydia pomonella OX=82600 PE=1 SV=1
+SPHYNFGL
+>sp|P82154|ALL3_CYDPO Cydiastatin-3 OS=Cydia pomonella OX=82600 PE=1 SV=1
+SRPYSFGL
+>sp|P82156|ALL5_CYDPO Cydiastatin-5 OS=Cydia pomonella OX=82600 PE=1 SV=1
+ARGYDFGL
+>sp|P82157|ALL6_CYDPO Cydiastatin-6 OS=Cydia pomonella OX=82600 PE=1 SV=1
+LPLYNFGL
+>sp|P82324|UT105_PEA Unknown protein from spot 105 of 2D-PAGE of thylakoid (Fragment) OS=Pisum sativum OX=3888 PE=1 SV=1
+SVVAAYMV
+>sp|P82455|ORMY_FAXLI Orcomyotropin OS=Faxonius limosus OX=28379 PE=1 SV=1
+FDAFTTGF
+>sp|P82598|NGIF_RAT Non-arginase growth inhibitory factor (Fragment) OS=Rattus norvegicus OX=10116 PE=1 SV=1
+AEPVEPWS
+>sp|P82618|PPK3_PERAM Pyrokinin-3 OS=Periplaneta americana OX=6978 PE=1 SV=1
+LVPFRPRL
+>sp|P82685|KINI1_PERAM Kinin-1 OS=Periplaneta americana OX=6978 PE=1 SV=1
+RPSFNSWG
+>sp|P82686|KINI2_PERAM Kinin-2 OS=Periplaneta americana OX=6978 PE=1 SV=1
+DASFSSWG
+>sp|P82687|KINI3_PERAM Kinin-3 OS=Periplaneta americana OX=6978 PE=1 SV=1
+DPSFNSWG
+>sp|P82688|KINI4_PERAM Kinin-4 OS=Periplaneta americana OX=6978 PE=1 SV=1
+GAQFSSWG
+>sp|P82689|KINI5_PERAM Kinin-5 OS=Periplaneta americana OX=6978 PE=1 SV=1
+SPAFNSWG
+>sp|P82858|URIC_PUCRE Uricase (Fragment) OS=Puccinia recondita f. sp. triseti OX=142679 PE=1 SV=1
+APFSLATA
+>sp|P83195|WP1_PEROL Wall protein 1 (Fragment) OS=Perkinsus olseni OX=32597 PE=1 SV=1
+MEDEGAGG
+>sp|P83233|VTIN_ALOVR Verectin (Fragment) OS=Aloe vera OX=34199 PE=1 SV=1
+DEDNVLLT
+>sp|P83275|FAR2_MACRS FMRFamide-like neuropeptide FLP2 OS=Macrobrachium rosenbergii OX=79674 PE=1 SV=1
+ADKNFLRF
+>sp|P83277|FAR4_MACRS FMRFamide-like neuropeptide FLP4 OS=Macrobrachium rosenbergii OX=79674 PE=1 SV=1
+APALRLRF
+>sp|P83531|UP03_FRUSA Unknown protein 3 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+SLGSGGSL
+>sp|P83532|UP04_FRUSA Unknown protein 4 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+GVPTVNAV
+>sp|P83661|C125_CYPDO Peptide Cd-125 OS=Cyphononyx dorsalis OX=246266 PE=1 SV=1
+DTARLQWH
+>sp|P83853|VAM6L_MOUSE Vam6-like protein (Fragment) OS=Mus musculus OX=10090 PE=1 SV=1
+EWEEWLLA
+>sp|P84240|AKH_MELML Adipokinetic hormone OS=Melolontha melolontha OX=7061 PE=1 SV=1
+QLNYSPDW
+>sp|P84259|HTF1_PERAM Hypertrehalosaemic factor 1 OS=Periplaneta americana OX=6978 PE=1 SV=1
+QVNFSPNW
+>sp|P84678|SC31_TITOB Toxin To31 (Fragment) OS=Tityus obscurus OX=1221240 PE=1 SV=1
+CSTCLDKP
+>sp|P84700|CONO_CONGA Conophan gld-V OS=Conus gladiator OX=257327 PE=1 SV=1
+APANSVWS
+>sp|P84701|CONO_CONMU Conophan mus-V OS=Conus mus OX=257335 PE=1 SV=1
+SPANSVWS
+>sp|P84703|BACT_RHILV Bacteriocin (Fragment) OS=Rhizobium leguminosarum bv. viciae OX=387 PE=1 SV=1
+ASILTNAS
+>sp|P84720|PS4_PINST Putative LRR disease resistance protein/transmembrane receptor kinase PS4 (Fragment) OS=Pinus strobus OX=3348 PE=1 SV=1
+VVSLSIPR
+>sp|P84829|SKSP4_ASCTR Skin secreted peptide 4 OS=Ascaphus truei OX=8439 PE=1 SV=1
+CHYIFNTC
+>sp|P85069|OJP3_SEPOF Ovarian jelly-peptide 3 OS=Sepia officinalis OX=6610 PE=1 SV=1
+DEVKIVLD
+>sp|P85327|PA50I_BISBO Pregnancy-associated glycoprotein 50I (Fragment) OS=Bison bonasus OX=9902 PE=1 SV=1
+SGSNLTTV
+>sp|P85335|PER4_BETPN Peroxidase 4 (Fragment) OS=Betula pendula OX=3505 PE=1 SV=1
+FYDTTCPK
+>sp|P85342|MDL_TAXBA Putative mandelonitrile lyase (Fragment) OS=Taxus baccata OX=25629 PE=1 SV=1
+HTAADLLR
+>sp|P85349|PER4_CYCRE Peroxidase 4 (Fragment) OS=Cycas revoluta OX=3396 PE=1 SV=1
+YYVDLQNR
+>sp|P85360|C450L_CYCRE Cytochrome P450-like protein (Fragment) OS=Cycas revoluta OX=3396 PE=1 SV=1
+MNEYLLPK
+>sp|P85364|SMP10_NAUMA Uncharacterized protein SMPP10 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+QLFQPPFR
+>sp|P85374|SMP07_NAUMA Uncharacterized protein SMPP7 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+LYSLLTEK
+>sp|P85379|SMP14_NAUMA Uncharacterized protein SMPP14 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+DFFFDFDR
+>sp|P85384|IMP02_NAUMA Uncharacterized protein IMPP2 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+VSVVGTVR
+>sp|P85392|SMP11_NAUMA Uncharacterized protein SMPP11 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+TSFTLYMR
+>sp|P85398|SMP02_NAUMA Uncharacterized protein SMPP2 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+DGDDGDGD
+>sp|P85409|UP11_GINBI Unknown protein 11 (Fragment) OS=Ginkgo biloba OX=3311 PE=1 SV=1
+ANDLVDDK
+>sp|P85415|UP03_ZINVI Unknown protein 3 (Fragment) OS=Zinnia violacea OX=34245 PE=1 SV=1
+VSGVADER
+>sp|P85416|UP04_ZINVI Unknown protein 4 (Fragment) OS=Zinnia violacea OX=34245 PE=1 SV=1
+PSATYFVR
+>sp|P85469|FAR7_SARBU FMRFamide-7 OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+GSNDFMRF
+>sp|P85483|E13B_PINHA Glucan endo-1,3-beta-glucosidase (Fragment) OS=Pinus halepensis OX=71633 PE=1 SV=1
+TYNNNLIR
+>sp|P85514|NPF2_LEPDE Neuropeptide NPF-2 OS=Leptinotarsa decemlineata OX=7539 PE=1 SV=1
+APSLRLRF
+>sp|P85813|LNF_RHOPR Long neuropeptide F OS=Rhodnius prolixus OX=13249 PE=1 SV=1
+VAAGRPRF
+>sp|P86922|LECT_GANLU Lectin (Fragment) OS=Ganoderma lucidum OX=5315 PE=1 SV=1
+TGVAWRIT
+>sp|Q7M3P1|TXV1_PHONI U28-ctenitoxin-Pn1a (Fragment) OS=Phoneutria nigriventer OX=6918 PE=1 SV=1
+EAFPGQST
+>sp|B0M2T3|FAR3_NAMOO Extended FMRFamide-3 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+GPDSAFLRL
+>sp|B0M2T4|FAR4_NAMOO Extended FMRFamide-4 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+GVDSSFLRL
+>sp|B0M2T6|FAR6_NAMOO Extended FMRFamide-6 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+GRAENFLRL
+>sp|B0M2T7|FAR7_NAMOO Extended FMRFamide-7 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+ARSDNFVRL
+>sp|B0M2T8|FAR8_NAMOO Extended FMRFamide-8 OS=Namaquaphasma ookiepense OX=409167 PE=1 SV=1
+ARTDNFVRL
+>sp|B0M3A2|FAR3_STRNA Extended FMRFamide-3 OS=Striatophasma naukluftense OX=1041429 PE=1 SV=1
+GPESAFLRL
+>sp|B0M3A9|FAR6_STRNA Extended FMRFamide-6 OS=Striatophasma naukluftense OX=1041429 PE=1 SV=1
+GRADNFLRL
+>sp|B0M3C7|FAR2_MANKU Extended FMRFamide-2 OS=Mantophasma kudubergense OX=1037657 PE=1 SV=1
+ADYLQLARA
+>sp|B0M8U2|FAR3_KARBO Extended FMRFamide-3 OS=Karoophasma botterkloofense OX=253132 PE=1 SV=1
+GPDSTFLRL
+>sp|B3A082|FAR2_LOBRE Extended FMRFamide-2 OS=Lobatophasma redelinghuysense OX=253128 PE=1 SV=1
+SDYLQLARG
+>sp|B3A083|FAR3_LOBRE Extended FMRFamide-3 OS=Lobatophasma redelinghuysense OX=253128 PE=1 SV=1
+LPDSSFLRL
+>sp|B3A0A2|FAR3_AUSRA Extended FMRFamide-3 OS=Austrophasma rawsonvillense OX=253137 PE=1 SV=1
+GPDSSFLRL
+>sp|B3A0E0|FAR2_AUSGA Extended FMRFamide-2 OS=Austrophasma gansbaaiense OX=253136 PE=1 SV=1
+PDYLQLARA
+>sp|B3A0F9|FAR2_PRAMA Extended FMRFamide-2 OS=Praedatophasma maraisi OX=409170 PE=1 SV=1
+ADYLQLTRA
+>sp|B3A0G0|FAR3_PRAMA Extended FMRFamide-3 OS=Praedatophasma maraisi OX=409170 PE=1 SV=1
+GPETAFLRL
+>sp|B3A0H7|FAR2_TYRGL Extended FMRFamide-2 OS=Tyrannophasma gladiator OX=270861 PE=1 SV=1
+ADYLRLARA
+>sp|B3A0H8|FAR3_TYRGL Extended FMRFamide-3 OS=Tyrannophasma gladiator OX=270861 PE=1 SV=1
+GPETAFFRL
+>sp|B3A0H9|FAR4_TYRGL Extended FMRFamide-4 OS=Tyrannophasma gladiator OX=270861 PE=1 SV=1
+GVDSSFVRL
+>sp|B3A0J7|FAR2_PACBA Extended FMRFamide-2 OS=Pachyphasma brandbergense OX=1041430 PE=1 SV=1
+SDYLQLART
+>sp|B3EWE5|TLP2_MANZA Thaumatin-like protein 2 (Fragment) OS=Manilkara zapota OX=3741 PE=1 SV=3
+ATFDIQNNC
+>sp|B3EWE7|ACP1_CYCRE Anticancerous peptide 1 OS=Cycas revoluta OX=3396 PE=1 SV=1
+AWKLFDDGV
+>sp|B3EWG7|PERO_PLEPU Peroxidase (Fragment) OS=Pleurotus pulmonarius OX=28995 PE=1 SV=1
+ADNPGDDGN
+>sp|B3EWK3|FAR7_DELRA FMRFamide-like neuropeptide TPGQDFMRF-amide OS=Delia radicum OX=30064 PE=1 SV=1
+TPGQDFMRF
+>sp|B3EWK5|FAR9_DELRA FMRFamide-like neuropeptide LPEQDFMRF-amide OS=Delia radicum OX=30064 PE=1 SV=1
+LPEQDFMRF
+>sp|B3EWL4|PVK2_DELRA CAPA-Periviscerokinin-2 OS=Delia radicum OX=30064 PE=1 SV=1
+AGLFAQPRL
+>sp|B3EWM5|TRP1_DELRA Tachykinin-related peptide TPTAFYGVR-amide OS=Delia radicum OX=30064 PE=1 SV=1
+TPTAFYGVR
+>sp|C0HJH0|CELL_ASPVE Endo-beta-1,4-glucanase (Fragment) OS=Aspergillus versicolor OX=46472 PE=1 SV=1
+VAAIQTVLG
+>sp|C0HJK1|TX1C_DINQU U1-poneritoxin-Dq1c OS=Dinoponera quadriceps OX=609295 PE=1 SV=1
+LRPDDLSDT
+>sp|C0HJK2|TX1AB_DINQU U1-poneritoxin-Dq1b OS=Dinoponera quadriceps OX=609295 PE=1 SV=1
+LPLDDLSDT
+>sp|O68936|RS10_SERMA 30S ribosomal protein S10 (Fragment) OS=Serratia marcescens OX=615 GN=rpsJ PE=3 SV=1
+MQNQRIRIR
+>sp|P01158|DSIP_RABIT Delta sleep-inducing peptide OS=Oryctolagus cuniculus OX=9986 PE=1 SV=1
+WAGGDASGE
+>sp|P01255|THYF_PIG Thymic factor OS=Sus scrofa OX=9823 PE=1 SV=1
+QAKSQGGSN
+>sp|P05487|CONO_CONST Conopressin-S OS=Conus striatus OX=6493 PE=1 SV=1
+CIIRNCPRG
+>sp|P08945|LITO_RANAE Litorin OS=Ranoidea aurea OX=8371 PE=1 SV=2
+QQWAVGHFM
+>sp|P08946|LITR_PITRO Rhodei-litorin OS=Pithecopus rohdei OX=8394 PE=1 SV=2
+QLWATGHFM
+>sp|P0A061|LPCA_STAAU Chloramphenicol resistance leader peptide OS=Staphylococcus aureus OX=1280 PE=4 SV=1
+MKKSEDYSS
+>sp|P0C2K9|BX8_LOXGA Dermonecrotic toxin LgSicTox-beta-LOXN8 (Fragment) OS=Loxosceles gaucho OX=58216 PE=1 SV=1
+ADSRKPIWI
+>sp|P0CF04|TX1A_DINAS U1-poneritoxin-Da1a OS=Dinoponera australis OX=609289 PE=1 SV=1
+GVVPHDFRI
+>sp|P0CV90|VSPH_CROAT Snake venom serine protease homolog (Fragment) OS=Crotalus atrox OX=8730 PE=1 SV=1
+FLVALYTFR
+>sp|P0DJJ6|VM1B_BOTLC Snake venom metalloproteinase BleucMP (Fragment) OS=Bothrops leucurus OX=157295 PE=1 SV=1
+TLTSFGEWR
+>sp|P0DL76|CONOT_CONTU Conopressin-T OS=Conus tulipa OX=6495 PE=1 SV=1
+CYIQNCLRV
+>sp|P0DM98|CUPC_CONPB Conopeptide-pc OS=Conus pictus OX=1042615 PE=1 SV=1
+RCLFWSVCP
+>sp|P0DMM6|SLA_TROWA Snaclec trowaglerix subunit alpha (Fragment) OS=Tropidolaemus wagleri OX=8770 PE=1 SV=1
+FKCMSEWYW
+>sp|P0DPL4|CT5F_CONTE Conotoxin tx5f OS=Conus textile OX=6494 PE=1 SV=1
+CCPPVIWCC
+>sp|P0DQM6|CONO1_CONML Conopressin-M1 OS=Conus miliaris OX=97181 PE=1 SV=1
+CFPGNCPDS
+>sp|P0DQM7|CONO2_CONML Conopressin-M2 OS=Conus miliaris OX=97181 PE=1 SV=1
+CFLGNCPDS
+>sp|P0DSF9|EVGL_ECOLI Protein EvgL OS=Escherichia coli (strain K12) OX=83333 GN=evgL PE=1 SV=1
+MLHCKGNNL
+>sp|P0DSG7|YHGP_ECOLI Protein YhgP OS=Escherichia coli (strain K12) OX=83333 GN=yhgP PE=1 SV=1
+MFHDLPGVK
+>sp|P0DUC3|COW_CONLE Contryphan Le925 OS=Conus leopardus OX=101306 PE=1 SV=1
+CFISDCAPG
+>sp|P0DUQ9|COW2_CONIN Contryphan-In1172 OS=Conus inscriptus OX=257329 PE=1 SV=1
+RCPWDPWCN
+>sp|P0DUU1|T1098_CONAA Conotoxin Am1099 OS=Conus amadis OX=198732 PE=1 SV=1
+CCQLFVWCC
+>sp|P12381|HUTU_KLEAE Urocanate hydratase (Fragment) OS=Klebsiella aerogenes OX=548 GN=hutU PE=3 SV=1
+MSQSKYRQL
+>sp|P12481|NEF_HV1Z8 Protein Nef (Fragment) OS=Human immunodeficiency virus type 1 group M subtype D (isolate Z84) OX=11681 GN=nef PE=3 SV=3
+MGGKWSKSS
+>sp|P16223|TKL1_LOCMI Locustatachykinin-1 OS=Locusta migratoria OX=7004 PE=1 SV=1
+GPSGFYGVR
+>sp|P16339|DNF1_LOCMI Locupressin OS=Locusta migratoria OX=7004 PE=1 SV=1
+CLITNCPRG
+>sp|P17441|TAL3_CYBJA Transaldolase-3 (Fragment) OS=Cyberlindnera jadinii OX=4903 PE=1 SV=1
+YGIHCNTLL
+>sp|P19095|SAMP_MUSCA Serum amyloid P-component (Fragment) OS=Mustelus canis OX=7812 PE=1 SV=1
+GFPGKSLIF
+>sp|P19149|XYLA_STRS8 Xylose isomerase (Fragment) OS=Streptomyces sp. (strain NCL 82-5-1) OX=72593 GN=xylA PE=1 SV=1
+RHAGSAHTF
+>sp|P19342|FIBB_THEGE Fibrinogen beta chain (Fragment) OS=Theropithecus gelada OX=9565 GN=FGB PE=1 SV=1
+NQEGLFGGR
+>sp|P19343|FIBB_PAPHA Fibrinogen beta chain (Fragment) OS=Papio hamadryas OX=9557 GN=FGB PE=1 SV=1
+NQEGLFHGR
+>sp|P19344|FIBB_PAPAN Fibrinogen beta chain (Fragment) OS=Papio anubis OX=9555 GN=FGB PE=1 SV=1
+NQEGLFRGR
+>sp|P19345|FIBB_MACFU Fibrinogen beta chain (Fragment) OS=Macaca fuscata fuscata OX=9543 GN=FGB PE=1 SV=1
+NEESLFSGR
+>sp|P19346|FIBB_ERYPA Fibrinogen beta chain (Fragment) OS=Erythrocebus patas OX=9538 GN=FGB PE=1 SV=1
+NEEVLFGGR
+>sp|P19852|MOSH_CLYJA Sperm-activating peptide SAP-b OS=Clypeaster japonicus OX=7644 PE=1 SV=1
+DSDSAHLIG
+>sp|P19853|MOSF_CLYJA [Phe6]-mosact OS=Clypeaster japonicus OX=7644 PE=1 SV=1
+DSDSAFLIG
+>sp|P24047|SAP_STOVA Sperm-activating peptide OS=Stomopneutes variolaris OX=7663 PE=1 SV=1
+KFCPEGKCV
+>sp|P24816|D1_NEPNO Gastrin/cholecystokinin-like peptide D1 OS=Nephrops norvegicus OX=6829 PE=1 SV=1
+SEGGQDFWL
+>sp|P25825|YBFR_AZOVI Uncharacterized protein in bfr 3'region (Fragment) OS=Azotobacter vinelandii OX=354 PE=4 SV=1
+MAPPRTSTS
+>sp|P29177|MGMT_BOVIN Methylated-DNA--protein-cysteine methyltransferase (Fragment) OS=Bos taurus OX=9913 GN=MGMT PE=1 SV=1
+NPIPILTPC
+>sp|P31799|LMIP_LOCMI Locustamyoinhibiting peptide OS=Locusta migratoria OX=7004 PE=1 SV=1
+AWQDLNAGW
+>sp|P33564|RS7_MYCIT 30S ribosomal protein S7 (Fragment) OS=Mycobacterium intracellulare OX=1767 GN=rpsG PE=3 SV=2
+MPRKGPAPK
+>sp|P38495|FARP_CALSI FMRFamide-like neuropeptide OS=Callinectes sapidus OX=6763 PE=1 SV=1
+GYNRSFLRF
+>sp|P41489|LMT3_LOCMI Locustamyotropin-3 OS=Locusta migratoria OX=7004 PE=1 SV=1
+RQQPFVPRL
+>sp|P41517|TKC1_CALVO Callitachykinin-1 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+APTAFYGVR
+>sp|P41856|FAR1_CALVO CalliFMRFamide-1 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+TPQQDFMRF
+>sp|P41857|FAR2_CALVO CalliFMRFamide-2 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+TPSQDFMRF
+>sp|P41858|FAR3_CALVO CalliFMRFamide-3 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+SPSQDFMRF
+>sp|P41859|FAR4_CALVO CalliFMRFamide-4 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+KPNQDFMRF
+>sp|P41861|FAR6_CALVO CalliFMRFamide-6 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+ASGQDFMRF
+>sp|P41865|FARA_CALVO CalliFMRFamide-10 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+TPNRDFMRF
+>sp|P41868|FARD_CALVO CalliFMRFamide-13 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+AGQDGFMRF
+>sp|P41873|FAR2_PANRE FMRFamide-like neuropeptide PF2 OS=Panagrellus redivivus OX=6233 PE=1 SV=1
+SADPNFLRF
+>sp|P42993|ISOT_CYPCA Isotocin OS=Cyprinus carpio OX=7962 PE=1 SV=1
+CYISNCPIG
+>sp|P42994|OXYT_RAJCL Glumitocin OS=Raja clavata OX=7781 PE=1 SV=1
+CYISNCPQG
+>sp|P42995|OXYT_SCLRE Seritocin OS=Sclerophrys regularis OX=1978144 PE=1 SV=1
+CYIQSCPIG
+>sp|P42996|OXYA_SCYCA Asvatocin OS=Scyliorhinus canicula OX=7830 PE=1 SV=1
+CYINNCPVG
+>sp|P42997|OXYF_SCYCA Phasvatocin OS=Scyliorhinus canicula OX=7830 PE=1 SV=1
+CYFNNCPVG
+>sp|P42998|OXYT_EISFE Annetocin OS=Eisenia fetida OX=6396 PE=1 SV=1
+CFVRNCPTG
+>sp|P42999|OXYA_SQUAC Aspartocin OS=Squalus acanthias OX=7797 PE=1 SV=1
+CYINNCPLG
+>sp|P43000|OXYV_SQUAC Valitocin OS=Squalus acanthias OX=7797 PE=1 SV=1
+CYIQNCPVG
+>sp|P43170|FAR5_ASCSU FMRFamide-like neuropeptide AF5 OS=Ascaris suum OX=6253 PE=1 SV=1
+SGKPTFIRF
+>sp|P43172|FAR9_ASCSU FMRFamide-like neuropeptide AF9 OS=Ascaris suum OX=6253 PE=1 SV=1
+GLGPRPLRF
+>sp|P67787|AKH_HELZE Adipokinetic hormone OS=Helicoverpa zea OX=7113 PE=1 SV=1
+QLTFTSSWG
+>sp|P69043|NEU1_RABIT Oxytocin OS=Oryctolagus cuniculus OX=9986 GN=OXT PE=1 SV=1
+CYIQNCPLG
+>sp|P80027|OXYT_OCTVU Cephalotocin OS=Octopus vulgaris OX=6645 PE=1 SV=1
+CYFRNCPIG
+>sp|P80159|FLAA2_BRAHO Flagellar filament outer layer protein flaA2 (Fragment) OS=Brachyspira hyodysenteriae OX=159 GN=flaA2 PE=1 SV=1
+ETVPYMFEN
+>sp|P80751|CWP01_DAUCA 66 kDa cell wall protein (Fragment) OS=Daucus carota OX=4039 PE=1 SV=1
+GPLNAQHQS
+>sp|P80752|CWP02_DAUCA 58 kDa cell wall protein (Fragment) OS=Daucus carota OX=4039 PE=1 SV=1
+QLAELKYVI
+>sp|P80764|CWP05_PHAVU 65 kDa cell wall protein (Fragment) OS=Phaseolus vulgaris OX=3885 PE=1 SV=1
+EDPVRFNLG
+>sp|P80765|CWP06_PHAVU 60 kDa cell wall protein (Fragment) OS=Phaseolus vulgaris OX=3885 PE=1 SV=1
+EDAYKFTTW
+>sp|P80778|CWP01_TOBAC 70 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+GLVPPADKY
+>sp|P80784|CWP07_TOBAC 57 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+QDPYVDFLK
+>sp|P80804|CWP07_SOLLC 62 kDa cell wall protein (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+EVPLDDTGL
+>sp|P80841|CWP20_ARATH 55 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+EATVDMPLD
+>sp|P80975|COX6A_THUOB Cytochrome c oxidase subunit 6A, mitochondrial (Fragment) OS=Thunnus obesus OX=8241 PE=1 SV=1
+KEQPEFVPY
+>sp|P81179|PGLR_DIAAB Endo-polygalacturonase (Fragment) OS=Diaprepes abbreviatus OX=13040 PE=1 SV=1
+IYTYVIGRG
+>sp|P81337|BUK_CLOPA Butyrate kinase (Fragment) OS=Clostridium pasteurianum OX=1501 GN=buk PE=1 SV=1
+MYKLLIINP
+>sp|P81736|TRP4_RHYMA Tachykinin-related peptide 4 OS=Rhyparobia maderae OX=36963 PE=1 SV=1
+APSGFMGMR
+>sp|P81813|ALL10_CARMA Carcinustatin-10 OS=Carcinus maenas OX=6759 PE=1 SV=1
+APQPYAFGL
+>sp|P81814|ALL11_CARMA Carcinustatin-11 OS=Carcinus maenas OX=6759 PE=1 SV=1
+ATGQYAFGL
+>sp|P82075|RBE42_LITRU Rubellidin-4.2/4.3 OS=Litoria rubella OX=104895 PE=1 SV=1
+AGLLDILGL
+>sp|P82208|UP10_BOMMO Unknown protein 10 from 2D-page (Fragment) OS=Bombyx mori OX=7091 PE=1 SV=1
+SPVISYDKT
+>sp|P82440|CWP32_TOBAC 42 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+QPEESVFFA
+>sp|P82661|FAR5_PANRE FMRFamide-like neuropeptide PF5 OS=Panagrellus redivivus OX=6233 PE=1 SV=1
+AMRNALVRF
+>sp|P82691|PPK1_PERAM Pyrokinin-1 OS=Periplaneta americana OX=6978 PE=1 SV=1
+HTAGFIPRL
+>sp|P83047|COW_CONVE Contryphan-Vn OS=Conus ventricosus OX=117992 PE=1 SV=1
+GDCPWKPWC
+>sp|P83152|APCB_ANASL Allophycocyanin beta chain (Fragment) OS=Anabaena sp. (strain L31) OX=29412 GN=apcB PE=1 SV=2
+MAQDAITAV
+>sp|P83157|SODF_ANASL Superoxide dismutase [Fe] (Fragment) OS=Anabaena sp. (strain L31) OX=29412 GN=sodB PE=1 SV=1
+AFVQEPLPY
+>sp|P83158|PSAC_ANASL Photosystem I iron-sulfur center (Fragment) OS=Anabaena sp. (strain L31) OX=29412 GN=psaC PE=1 SV=2
+MSHTVKIYD
+>sp|P83222|NUC34_STRAT 34 kDa extracellular nuclease (Fragment) OS=Streptomyces antibioticus OX=1890 PE=1 SV=1
+GTLIGQDYK
+>sp|P83276|FAR3_MACRS FMRFamide-like neuropeptide FLP3 OS=Macrobrachium rosenbergii OX=79674 PE=1 SV=1
+NYDKNFLRF
+>sp|P83279|FAR6_MACRS FMRFamide-like neuropeptide FLP6 OS=Macrobrachium rosenbergii OX=79674 PE=1 SV=1
+DGGRNFLRF
+>sp|P83281|FAR8_MACRS FMRFamide-like neuropeptide FLP8 OS=Macrobrachium rosenbergii OX=79674 PE=1 SV=1
+VSHNNFLRF
+>sp|P83318|FAR3_PENMO FMRFamide-like neuropeptide FLP3 OS=Penaeus monodon OX=6687 PE=1 SV=1
+AQPSMRLRF
+>sp|P83319|FAR4_PENMO FMRFamide-like neuropeptide FLP4 OS=Penaeus monodon OX=6687 PE=1 SV=1
+SQPSMRLRF
+>sp|P83320|FAR5_PENMO FMRFamide-like neuropeptide FLP5 OS=Penaeus monodon OX=6687 PE=1 SV=1
+SMPSLRLRF
+>sp|P83350|FAR1_SARBU FMRFamide-1 OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+QPSQDFMRF
+>sp|P83375|BSP43_SERPL Bacteriocin serracin-P 43 kDa subunit (Fragment) OS=Serratia plymuthica OX=82996 PE=1 SV=2
+DYHHGVRVL
+>sp|P83380|PPH1_SOLLC Purple acid phosphatase isozyme LeSAP1 (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+AGDVIYIVR
+>sp|P83529|UP01_FRUSA Unknown protein 1 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+GYGFLTTDD
+>sp|P83539|UP09_FRUSA Unknown protein 9 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+LRLDLSNLR
+>sp|P84004|PYF_LOLVU Peptide tyrosine phenylalanine OS=Loligo vulgaris OX=6622 PE=1 SV=1
+YAIVARPRF
+>sp|P84006|PYF2_PENMO Peptide tyrosine phenylalanine 2 OS=Penaeus monodon OX=6687 PE=1 SV=1
+YSQVSRPRF
+>sp|P84007|PYF3_PENMO Peptide tyrosine phenylalanine 3 OS=Penaeus monodon OX=6687 PE=1 SV=1
+YAIAGRPRF
+>sp|P84008|PYF4_PENMO Peptide tyrosine phenylalanine 4 OS=Penaeus monodon OX=6687 PE=1 SV=1
+YSLRARPRF
+>sp|P84107|RHG_RAT Rho-GTPase-activating protein (Fragment) OS=Rattus norvegicus OX=10116 PE=1 SV=1
+LFEENGGAL
+>sp|P84119|CCAP_CARMA Cardioactive peptide OS=Carcinus maenas OX=6759 PE=1 SV=1
+PFCNAFTGC
+>sp|P84353|PVK2_SARBU Periviscerokinin-2 OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+AGLLVYPRL
+>sp|P84355|PVK2_MUSDO Periviscerokinin-2 OS=Musca domestica OX=7370 PE=1 SV=1
+ASLFNAPRV
+>sp|P84683|SC40_TITOB Toxin To40 (Fragment) OS=Tityus obscurus OX=1221240 PE=1 SV=1
+IKNGYPRDS
+>sp|P84711|BAP3_LATCU Bioactive peptide 3 (Fragment) OS=Latilactobacillus curvatus OX=28038 PE=1 SV=1
+NIPQLTPTP
+>sp|P84734|PS18_PINST Putative acid phosphatase PS18 (Fragment) OS=Pinus strobus OX=3348 PE=1 SV=1
+SLSIMEPIR
+>sp|P84759|JELL3_APIME Jellein-3 OS=Apis mellifera OX=7460 PE=1 SV=1
+EPFKISIHL
+>sp|P84760|ALVOL_POLAE Alveolarin (Fragment) OS=Polyporus alveolaris OX=1260784 PE=1 SV=1
+GVCDMADLA
+>sp|P84773|BRK_AMICA [Trp5]-bradykinin OS=Amia calva OX=7924 PE=1 SV=1
+RPPGWSPFR
+>sp|P84814|OPIP1_AMBTS Opioid peptide OS=Amblyomma testudinarium OX=375577 PE=1 SV=1
+LVVYPWTKM
+>sp|P84822|TY4_ASCTR Tryptophyllin-4 OS=Ascaphus truei OX=8439 PE=1 SV=1
+EPRTPWDWV
+>sp|P84834|TY2_ASCTR Tryptophyllin-2 OS=Ascaphus truei OX=8439 PE=1 SV=1
+GPIPWQRRI
+>sp|P84979|ABP_POPEU Probable auxin-binding protein (Fragment) OS=Populus euphratica OX=75702 PE=1 SV=1
+KGDIMVFPR
+>sp|P85002|CYCLF_ANNCH Cyclopeptide F OS=Annona cherimola OX=49314 PE=1 SV=1
+PGMGIYLPM
+>sp|P85043|PVK_IXORI Periviscerokinin OS=Ixodes ricinus OX=34613 PE=1 SV=1
+PALIPFPRV
+>sp|P85141|CONOV_CONVL Gamma-conopressin vil OS=Conus villepinii OX=257347 PE=1 SV=1
+CLIQDCPEG
+>sp|P85159|ORPO_POTOR Orpotrin OS=Potamotrygon orbignyi OX=86381 PE=1 SV=1
+HGGYKPTDK
+>sp|P85332|PERC_BETPN Cationic peroxidase (Fragment) OS=Betula pendula OX=3505 PE=1 SV=1
+GFDVIDTIK
+>sp|P85346|PER1_CYCRE Peroxidase 1 (Fragment) OS=Cycas revoluta OX=3396 PE=1 SV=1
+GFDVVDNIK
+>sp|P85361|NAH_CYCRE Putative Na(+)/H(+) antiporter (Fragment) OS=Cycas revoluta OX=3396 PE=1 SV=1
+FGVLAVTSR
+>sp|P85362|LEU1_CYCRE 2-isopropylmalate synthase (Fragment) OS=Cycas revoluta OX=3396 PE=1 SV=1
+FAQLLNDLK
+>sp|P85376|SMP09_NAUMA Uncharacterized protein SMPP9 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+SFDSSVLTK
+>sp|P85381|SMP16_NAUMA Uncharacterized protein SMPP16 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+FIAGLNGLR
+>sp|P85386|IMP05_NAUMA Uncharacterized protein IMPP5 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+LGSLDEYAR
+>sp|P85388|SMP03_NAUMA Uncharacterized protein SMPP3 (Fragment) OS=Nautilus macromphalus OX=34576 PE=1 SV=1
+EKGYNPYVR
+>sp|P85998|PER4_SOLLC Peroxidase 4 (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+VHYHDCFVR
+>sp|P86004|PER6_CAPAN Peroxidase 6 (Fragment) OS=Capsicum annuum OX=4072 PE=1 SV=1
+GYEVIDTIK
+>sp|P86035|BRK3_PELRI [Asp6]-bradykinin OS=Pelophylax ridibundus OX=8406 PE=1 SV=1
+RPPGFDPFR
+>sp|P86064|PER8_DAUCA Peroxidase 8 (Fragment) OS=Daucus carota OX=4039 PE=1 SV=1
+NAPPNLTLR
+>sp|P86090|AMY4_CAPCH Alpha-amylase 4 (Fragment) OS=Capsicum chinense OX=80379 PE=1 SV=1
+TDVGFDGWR
+>sp|P82441|CWP33_TOBAC 26 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+SPPAPFVPVPIN
+>sp|P82619|PPK4_PERAM Pyrokinin-4 OS=Periplaneta americana OX=6978 PE=1 SV=1
+DHLPHDVYSPRL
+>sp|P82652|TIN2_HOPTI Tigerinin-2 OS=Hoplobatrachus tigerinus OX=103373 PE=1 SV=1
+RVCFAIPLPICH
+>sp|P82653|TIN3_HOPTI Tigerinin-3 OS=Hoplobatrachus tigerinus OX=103373 PE=1 SV=1
+RVCYAIPLPICY
+>sp|P82820|TP5_LITCT Ranatuerin-5 OS=Lithobates catesbeianus OX=8400 PE=1 SV=1
+FLPIASLLGKYL
+>sp|P86339|VP4_BROAA Venom peptide 4 (Fragment) OS=Brotheas amazonicus OX=662117 PE=1 SV=1
+IIDFIPQIE
+>sp|P86340|VP2_BROAA Venom peptide 2 (Fragment) OS=Brotheas amazonicus OX=662117 PE=1 SV=1
+IWSGIQSAF
+>sp|P86341|VP1_BROAA Venom peptide 1 (Fragment) OS=Brotheas amazonicus OX=662117 PE=1 SV=1
+IWSGIQGAF
+>sp|P86443|NPF_SCHGR Neuropeptide F OS=Schistocerca gregaria OX=7010 PE=1 SV=1
+YSQVARPRF
+>sp|P86557|TRP1_ACRHI Tachykinin-related peptide 1 OS=Acrosternum hilare OX=244443 PE=1 SV=1
+GPSGFLGMR
+>sp|P86602|SSP11_PHAJA Skin secreted peptide P1-1 OS=Phasmahyla jandaia OX=762504 PE=1 SV=1
+KPEEDWGHK
+>sp|P86603|SSP12_PHAJA Skin secreted peptide P1-2 OS=Phasmahyla jandaia OX=762504 PE=1 SV=1
+KPEEDWGHR
+>sp|P0CI07|TEG1_HASHE Augerpeptide hheTx1 OS=Hastula hectica OX=745793 PE=1 SV=1
+DCLPCGHDVCC
+>sp|P0CI23|CTA11_CONAO Chi-conotoxin-like Ar1311 OS=Conus araneosus OX=101286 PE=1 SV=1
+RCCGYKMCHPC
+>sp|P0CJ34|BKIP_CROAT Bradykinin inhibitor peptide OS=Crotalus atrox OX=8730 PE=1 SV=1
+TPPAGPDVGPR
+>sp|P0DJC3|CUGA_CONQU Conotoxin qc16a OS=Conus quercinus OX=101313 PE=1 SV=1
+DCQPCGHNVCC
+>sp|P0DJK4|BPPBF_BOTCO Bradykinin-potentiating peptide 11f OS=Bothrops cotiara OX=8727 PE=1 SV=1
+QNAHPSPKVPP
+>sp|P0DL04|BPPBI_BOTJA Bradykinin-potentiating peptide 11i OS=Bothrops jararaca OX=8724 PE=1 SV=1
+QNGPRPIGIPP
+>sp|P0DL05|BPPBJ_BOTJA Bradykinin-potentiating peptide 11j OS=Bothrops jararaca OX=8724 PE=1 SV=1
+QNRHPPIPPAP
+>sp|P0DL32|BRKF_CYPDO Fulvonin OS=Cyphononyx dorsalis OX=246266 PE=1 SV=1
+SIVLRGKAPFR
+>sp|P0DPL5|CT5G_CONTE Conotoxin tx5g OS=Conus textile OX=6494 PE=1 SV=1
+QTCCGSKVFCC
+>sp|P0DSF7|YOAM_ECOLI Protein YoaM OS=Escherichia coli (strain K12) OX=83333 GN=yoaM PE=1 SV=1
+MSVSCWEFNAG
+>sp|P0DUU2|T1309_CONAA Conotoxin Ama1309 OS=Conus amadis OX=198732 PE=1 SV=1
+CCTPFYFCCNN
+>sp|P0DUU3|T1251_CONAA Conotoxin Ama1251 OS=Conus amadis OX=198732 PE=1 SV=1
+DSCCIEQHCCD
+>sp|P0DUU4|A1245_CONAA Conotoxin Ama1245 OS=Conus amadis OX=198732 PE=1 SV=1
+SQCCYQICSPC
+>sp|P0DUU9|VP42_ISOHA Venom peptide Sh42 OS=Isodontia harmandi OX=2838365 PE=1 SV=1
+EDDLSDFNPKV
+>sp|P0DUV0|BM10_BATMC Peptide Bm-10 OS=Batozonellus maculifrons OX=308766 PE=1 SV=1
+QTAPVPKAISK
+>sp|P0DV22|YTIE_ECOLI Protein YtiE OS=Escherichia coli (strain K12) OX=83333 GN=ytiE PE=1 SV=1
+MLMTICNRYTF
+>sp|P0DW51|ANNU_CAMAN Annulatin OS=Campsomeriella annulata OX=1574124 PE=1 SV=1
+ISEALKSIIVG
+>sp|P19850|TKNA_CHICK Substance P OS=Gallus gallus OX=9031 PE=1 SV=1
+RPRPQQFFGLM
+>sp|P22688|TKNA_LITCT Ranatachykinin-A OS=Lithobates catesbeianus OX=8400 PE=1 SV=1
+KPSPDRFYGLM
+>sp|P22691|TKND_LITCT Ranatachykinin-D OS=Lithobates catesbeianus OX=8400 PE=1 SV=1
+KPNPERFYAPM
+>sp|P22790|CEP1_LISFU Cardio-excitatory peptide 1 OS=Lissachatina fulica OX=2315439 PE=1 SV=1
+SGQSWRPQGRF
+>sp|P28498|TKNA_GADMO Substance P OS=Gadus morhua OX=8049 PE=1 SV=1
+KPRPQQFIGLM
+>sp|P28499|TKNA_ONCMY Substance P OS=Oncorhynchus mykiss OX=8022 PE=1 SV=1
+KPRPHQFFGLM
+>sp|P29207|TKNA_PELRI Ranakinin OS=Pelophylax ridibundus OX=8406 PE=1 SV=1
+KPNPERFYGLM
+>sp|P30424|BPP4_BOTIN Bradykinin-potentiating peptide S4,1,2 OS=Bothrops insularis OX=8723 PE=1 SV=2
+QGGPPRPQIPP
+>sp|P31031|T2P1_PROHU Type II restriction enzyme PvuI (Fragment) OS=Proteus hauseri OX=183417 GN=pvuIR PE=4 SV=1
+ISVDELSNYNF
+>sp|P41837|PVK1_PERAM Periviscerokinin-1 OS=Periplaneta americana OX=6978 PE=1 SV=1
+GASGLIPVMRN
+>sp|P41864|FAR9_CALVO CalliFMRFamide-9 OS=Calliphora vomitoria OX=27454 PE=1 SV=1
+SVNTKNDFMRF
+>sp|P41989|MLG_THETS Melanotropin gamma OS=Theromyzon tessulatum OX=13286 PE=1 SV=1
+YVMGHFRWDKF
+>sp|P42341|RR2_CONAM Plastid 30S ribosomal protein S2 (Fragment) OS=Conopholis americana OX=4179 GN=rps2 PE=3 SV=1
+MTRRYWNIDLE
+>sp|P42986|TKN1_PSEGU Kassinin-like peptide K-I OS=Pseudophryne guentheri OX=30349 PE=1 SV=1
+QPHPDEFVGLM
+>sp|P42989|TKN4_PSEGU Substance P-like peptide 1 OS=Pseudophryne guentheri OX=30349 PE=1 SV=1
+QPNPDEFFGLM
+>sp|P49820|NDUV2_CANLF NADH dehydrogenase [ubiquinone] flavoprotein 2 (Fragment) OS=Canis lupus familiaris OX=9615 GN=NDUFV2 PE=1 SV=2
+GAGGALFVHRD
+>sp|P55173|PQQC_PSEPH Pyrroloquinoline-quinone synthase (Fragment) OS=Pseudomonas protegens (strain DSM 19095 / LMG 27888 / CFBP 6595 / CHA0) OX=1124983 GN=pqqC PE=3 SV=1
+MTDTPLSAAEF
+>sp|P58848|CT5A_CONAL Conotoxin au5a OS=Conus aulicus OX=89437 PE=1 SV=1
+FCCPFIRYCCW
+>sp|P62933|TKN_ELECI Eledoisin OS=Eledone cirrhosa OX=102876 PE=1 SV=1
+QPSKDAFIGLM
+>sp|P69206|MORN_BOVIN Morphogenetic neuropeptide OS=Bos taurus OX=9913 PE=1 SV=1
+QPPGGSKVILF
+>sp|P80464|Q2OA_COMTE Quinoline 2-oxidoreductase alpha chain (Fragment) OS=Comamonas testosteroni OX=285 PE=1 SV=1
+AKSDVAELKPR
+>sp|P80792|CWP15_TOBAC 33 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+EQCQDMAGGAR
+>sp|P80796|CWP19_TOBAC 14 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+AVFVILTNVYT
+>sp|P80805|CWP08_SOLLC 50 kDa cell wall protein (Fragment) OS=Solanum lycopersicum OX=4081 PE=1 SV=1
+EVLYIPVTTDA
+>sp|P80843|CWP22_ARATH 68 kDa cell wall protein (Fragment) OS=Arabidopsis thaliana OX=3702 PE=1 SV=1
+AVPPRYGYTRG
+>sp|P81095|CSI5_BACIU Cold shock protein CSI5 (Fragment) OS=Bacillus subtilis OX=1423 PE=1 SV=1
+MRNIKVKPFLN
+>sp|P81350|EFG_CLOPA Elongation factor G (Fragment) OS=Clostridium pasteurianum OX=1501 GN=fusA PE=1 SV=1
+KYPLEKFQNIG
+>sp|P81672|HSP70_PINPS Heat shock 70 kDa protein (Fragment) OS=Pinus pinaster OX=71647 PE=1 SV=1
+VEIIANDQGNR
+>sp|P82074|RBE41_LITRU Rubellidin-4.1 OS=Litoria rubella OX=104895 PE=1 SV=1
+GLGDILGLLGL
+>sp|P82087|CAE21_RANCI Caerulein-2.1/2.1Y4 OS=Ranoidea citropa OX=94770 PE=1 SV=1
+QQDYTGAHMDF
+>sp|P82089|CAE31_RANCI Caerulein-3.1/3.1Y4 OS=Ranoidea citropa OX=94770 PE=1 SV=1
+QQDYGTGWMDF
+>sp|P82092|CAE42_RANCI Caerulein-4.2/4.2Y4 OS=Ranoidea citropa OX=94770 PE=1 SV=1
+QQDYTGSHFDF
+>sp|P82651|TIN1_HOPTI Tigerinin-1 OS=Hoplobatrachus tigerinus OX=103373 PE=1 SV=1
+FCTMIPIPRCY
+>sp|P82684|PPK1_CARMO Pyrokinin-1 OS=Carausius morosus OX=7022 PE=1 SV=1
+DEGGTQYTPRL
+>sp|P83092|TL33_SPIOL Thylakoid lumenal 33.6 kDa protein (Fragment) OS=Spinacia oleracea OX=3562 PE=1 SV=1
+VLYSPDTKVPR
+>sp|P83128|FETA_BOSIN Probable alpha-fetoprotein (Fragment) OS=Bos indicus OX=9915 GN=AFP PE=1 SV=1
+DKNAYGIDLIL
+>sp|P83146|ASL1_BACSE Acharan sulfate lyase 1 (Fragment) OS=Bacteroides stercoris OX=46506 PE=1 SV=1
+NYIYSGHNYHQ
+>sp|P83147|ASL2_BACSE Acharan sulfate lyase 2 (Fragment) OS=Bacteroides stercoris OX=46506 PE=1 SV=1
+TEFATNDGGQR
+>sp|P83154|PYG3_ANASL Phycobilisome rod-core linker polypeptide CpcG3 (Fragment) OS=Anabaena sp. (strain L31) OX=29412 GN=cpcG3 PE=1 SV=2
+MALPLLEYKPT
+>sp|P83168|A2AP_STRCA Alpha-2-antiplasmin (Fragment) OS=Struthio camelus OX=8801 GN=SERPINF2 PE=1 SV=1
+LQVDYLVLEVA
+>sp|P83321|FAR6_PENMO FMRFamide-like neuropeptide FLP6 OS=Penaeus monodon OX=6687 PE=1 SV=1
+DGRTPALRLRF
+>sp|P83328|RS30_ONCMY 40S ribosomal protein S30 (Fragment) OS=Oncorhynchus mykiss OX=8022 GN=fau PE=1 SV=1
+KVHGSLARAGK
+>sp|P83518|ODAIF_SARBU Ovary-derived ACE interactive factor OS=Sarcophaga bullata OX=7385 PE=1 SV=1
+NKLKPSQWISL
+>sp|P83537|UP07_FRUSA Unknown protein 7 from 2D-PAGE (Fragment) OS=Fructilactobacillus sanfranciscensis OX=1625 PE=1 SV=1
+GSFFATPDDRH
+>sp|P83659|BRKC_CYPDO Cyphokinin OS=Cyphononyx dorsalis OX=246266 PE=1 SV=2
+DTRPPGFTPFR
+>sp|P85038|BPP2_GLOHA Bradykinin-potentiating peptide 2 OS=Gloydius halys OX=8714 PE=1 SV=1
+QGRPPRPHIPP
+>sp|P85041|VKT10_DABSI Kunitz-type serine protease inhibitor C10 (Fragment) OS=Daboia siamensis OX=343250 PE=1 SV=1
+YNPASNQCQGF
+>sp|P85340|TLP2_TAXBA Thaumatin-like protein 2 (Fragment) OS=Taxus baccata OX=25629 PE=1 SV=1
+NQCPQAYSYAK
+>sp|P85336|GLP1_BETPN Germin-like protein 1 (Fragment) OS=Betula pendula OX=3505 PE=1 SV=1
+ILGLNTLGVSLAR
+>sp|P85355|CHI3_TAXBA Endochitinase 3 (Fragment) OS=Taxus baccata OX=25629 PE=1 SV=1
+MYDESTGYSSALK
+>sp|P0C931|EUME_EUMRU Eumenitin OS=Eumenes rubronotatus OX=539890 PE=1 SV=1
+LNLKGIFKKVASLLT
+>sp|P0CF76|SCX11_MESMA Toxin BmKNJX11 (Fragment) OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+GRDAYIADSENCTYT
+>sp|P0CH15|CM3A_CONPI Conotoxin pr3a OS=Conus parius OX=505247 PE=1 SV=1
+CCNWPCSFGCIPCCY
+>sp|P0CJ36|EUMER_EUMRB Eumenitin-R OS=Eumenes rubrofemoratus OX=1035770 PE=1 SV=1
+LNLKGLIKKVASLLN
+>sp|P0DM28|CRFA3_CONSP Conorfamide-Sr3 OS=Conus spurius OX=192919 PE=1 SV=1
+ATSGPMGWLPVFYRF
+>sp|Q9TWH3|ISOLC_AGEAP Venom peptide isomerase light chain OS=Agelenopsis aperta OX=6908 PE=1 SV=1
+VEVATVKNCGKKLLATPR
+>sp|X1WB75|CA1A_CONLG Alpha-conotoxin Lo1a OS=Conasprella longurionis OX=1077918 PE=1 SV=1
+EGCCSNPACRTNHPEVCD
+>sp|A5A621|YPFM_ECOLI Uncharacterized protein YpfM OS=Escherichia coli (strain K12) OX=83333 GN=ypfM PE=1 SV=1
+MIERELGNWKDFIEVMLRK
+>sp|B0M399|PVK2_STRNA CAPA-Periviscerokinin-2 OS=Striatophasma naukluftense OX=1041429 PE=1 SV=1
+SGLQFAVLDGQGFIPFPRV
+>sp|B0M3C5|PVK2_MANKU CAPA-Periviscerokinin-2 OS=Mantophasma kudubergense OX=1037657 PE=1 SV=1
+SGLQFAVLDGQGFLPFSRV
+>sp|B3A080|PVK2_LOBRE CAPA-Periviscerokinin-2 OS=Lobatophasma redelinghuysense OX=253128 PE=1 SV=1
+SGLQFAVMDGQGFLPFPRV
+>sp|B3A0L2|AMP19_XENBU Antimicrobial peptide GP-19 OS=Xenorhabdus budapestensis OX=290110 PE=1 SV=1
+GPVGLLSSPGSLPPVGGAP
+>sp|B3EWI5|AMP1_CENMR Putative antimicrobial protein 1 (Fragment) OS=Cenchritis muricatus OX=197001 PE=1 SV=1
+VLSHNNESSYSDTSSCTSQ
+>sp|C0HJY9|PON1F_ANOEM U1-poneritoxin-Ae1f OS=Anochetus emarginatus OX=486636 PE=1 SV=1
+SFYACTNGCWVKPGGGCQC
+>sp|C0HKP9|PLS4_PITNO Phylloseptin-N4 OS=Pithecopus nordestinus OX=2034992 PE=1 SV=1
+FLSLIPHAINAVSAIAKHF
+>sp|C0HKQ0|PLS3_PITNO Phylloseptin-N3 OS=Pithecopus nordestinus OX=2034992 PE=1 SV=1
+FLSLIPTAINAVSALAKHF
+>sp|C0HLD5|PLS11_PHYTB Phylloseptin-1.1TR OS=Phyllomedusa trinitatis OX=332092 PE=1 SV=1
+FLSLIPKIAGGIASLVKNL
+>sp|C0HLD7|PLS21_PHYTB Phylloseptin-2.1TR OS=Phyllomedusa trinitatis OX=332092 PE=1 SV=1
+FLSLIPHIATGIAALAKHL
+>sp|C0HLD8|PLS31_PHYTB Phylloseptin-3.1TR OS=Phyllomedusa trinitatis OX=332092 PE=1 SV=1
+FFSMIPKIATGIASLVKNL
+>sp|C1P607|IBSA_ECOLI Small toxic protein IbsA OS=Escherichia coli (strain K12) OX=83333 GN=ibsA PE=2 SV=1
+MMKHVIILVILLVISFQAY
+>sp|C1P615|IBSC_ECOLI Small toxic protein IbsC OS=Escherichia coli (strain K12) OX=83333 GN=ibsC PE=2 SV=1
+MMRLVIILIVLLLISFSAY
+>sp|C1P616|IBSD_ECOLI Small toxic protein IbsD OS=Escherichia coli (strain K12) OX=83333 GN=ibsD PE=3 SV=1
+MMKLVIILIVLLLVSFAAY
+>sp|C1P617|IBSE_ECOLI Small toxic protein IbsE OS=Escherichia coli (strain K12) OX=83333 GN=ibsE PE=2 SV=1
+MMKLVIILVVLLLLSFPTY
+>sp|O31159|RS19_SPICI 30S ribosomal protein S19 (Fragment) OS=Spiroplasma citri OX=2133 GN=rpsS PE=3 SV=1
+EFSPTRKFGGHGDDKKKKK
+>sp|P03063|LPRM_STAAU 23S rRNA methylase leader peptide OS=Staphylococcus aureus OX=1280 GN=ermC PE=1 SV=1
+MGIFSIFVISTVHYQPNKK
+>sp|P0C1N0|M3B_CONMR Conotoxin mr3b OS=Conus marmoreus OX=42752 PE=1 SV=1
+SKQCCHLAACRFGCTPCCW
+>sp|P0C1W8|CA4B_CONOB Alpha-conotoxin OIVB OS=Conus obscurus OX=89447 PE=1 SV=1
+CCGVPNAACPPCVCNKTCG
+>sp|P0C2U9|LYC34_LYCSI U1-lycotoxin-Ls1a OS=Lycosa singoriensis OX=434756 PE=1 SV=1
+AGIGKIGDFIKKAIAKYKN
+>sp|P0C577|VSPG_BITGA Thrombin-like enzyme gabonase (Fragment) OS=Bitis gabonica OX=8694 PE=1 SV=1
+VVGGAECKIDGHRCLALLY
+>sp|P0C8E0|CKP1_CONPI Conantokin-Pr1 OS=Conus parius OX=505247 PE=1 SV=1
+GEDEYAEGIREYQLIHGKI
+>sp|P0C8E1|CKP2_CONPI Conantokin-Pr2 OS=Conus parius OX=505247 PE=1 SV=1
+DEPEYAEAIREYQLKYGKI
+>sp|P0C8E2|CKP3_CONPI Conantokin-Pr3 OS=Conus parius OX=505247 PE=1 SV=1
+GEPEVAKWAEGLREKAASN
+>sp|P0CC16|OXLA_AGKCL L-amino-acid oxidase (Fragment) OS=Agkistrodon contortrix laticinctus OX=37195 PE=1 SV=1
+ADSRNPLEEEFRETNYEEF
+>sp|P0CD67|BOL6_BOMLA Bombolitin-6 OS=Bombus lapidarius OX=30192 PE=1 SV=1
+LNLTKWLGKLGVILSHLNK
+>sp|P0CD68|BOL7_BOMLA Bombolitin-7 OS=Bombus lapidarius OX=30192 PE=1 SV=1
+LKLKDILGKIKVILSHLNK
+>sp|P0CD69|BOL8_BOMLA Bombolitin-8 OS=Bombus lapidarius OX=30192 PE=1 SV=1
+LKLKSILGKLGVILSHLNK
+>sp|P0CJ32|ASCA8_ASCTR Ascaphin-8 OS=Ascaphus truei OX=8439 PE=1 SV=1
+GFKDLLKGAAKALVKTVLF
+>sp|P0DI85|OXLA8_DEIAC L-amino-acid oxidase ACTX-8 (Fragment) OS=Deinagkistrodon acutus OX=36307 PE=1 SV=1
+ADDRNPLEEFRENNYEEFL
+>sp|P0DJ96|TX22_DENAN Pro-rich toxin 4 OS=Dendroaspis angusticeps OX=8618 PE=1 SV=1
+KSPPQALNKPLPAPSAPSL
+>sp|P85898|UP01_CONSH Unknown protein 1 (Fragment) OS=Coniferiporia sulphurascens OX=175648 PE=1 SV=1
+VAIIIYSMYGHIAKYGNFPGQWK
+>sp|P85936|DCL_PSEMZ Protein DCL, chloroplastic (Fragment) OS=Pseudotsuga menziesii OX=3357 PE=1 SV=1
+AWVDWEDQILQDTVPLVNFVRMI
+>sp|P85984|PROF_BETVU Profilin (Fragment) OS=Beta vulgaris OX=161934 PE=1 SV=1
+YMVIQGEPGAVIRLGDYLIDQGL
+>sp|P86351|LAC1_GALSP Laccase-1 (Fragment) OS=Galerina sp OX=671179 PE=1 SV=1
+GPSTDLVIGNKGFDGGIDSAILR
+>sp|P86498|KRT_CEREL Keratin (Fragment) OS=Cervus elaphus OX=9860 PE=1 SV=1
+YSSQLAQVQGLIGNVESQLAEIR
+>sp|P86915|PSB_PSEBL Pseudin-B OS=Pseudis bolbodactyla OX=428381 PE=1 SV=1
+GLNTLKKVIQGLHEVIKLVNNHA
+>sp|Q07333|IAPP_LEPEU Islet amyloid polypeptide (Fragment) OS=Lepus europaeus OX=9983 GN=IAPP PE=2 SV=1
+TQRLANFLIHSSNNFGAIFSPPN
+>sp|Q24437|MST40_DROME Protein male-specific 40 OS=Drosophila melanogaster OX=7227 GN=Mst40 PE=2 SV=1
+MFKPGYSEAKKPKITDEFSYKQT
+>sp|Q37069|YCX1_MAIZE Uncharacterized 2.5 kDa protein in tRNA-Arg-tRNA-Asn intergenic region OS=Zea mays OX=4577 PE=4 SV=1
+MIGIADVKLLNLGMLFPFVEVES
+>sp|Q488A4|PQQA_COLP3 Coenzyme PQQ synthesis protein A OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=pqqA PE=3 SV=1
+MWTKPKFEEMRLGFEVTLYISNR
+>sp|Q53391|FMK7_PSEAI Fimbrial protein (Fragment) OS=Pseudomonas aeruginosa OX=287 GN=pil PE=1 SV=1
+DVNGGWSCATTVDAKFRPNGCTD
+>sp|Q6F9J3|PQQA_ACIAD Coenzyme PQQ synthesis protein A OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) OX=62977 GN=pqqA PE=3 SV=1
+MWTKPAFEDIRLGFEITMYAAVE
+>sp|Q8BB12|NS0_PCV2 Protein NS0 OS=Porcine circovirus 2 OX=85708 GN=NS0 PE=4 SV=1
+MVTMVKKWLLLMTFMAGCRGMIY
+>sp|P51275|PETM_PORPU Cytochrome b6-f complex subunit 7 OS=Porphyra purpurea OX=2787 GN=petM PE=3 SV=1
+MGKEIVESAILSSVLVLVGLAVGFLLLKVQGE
+>sp|P58504|KA102_CENNO Potassium channel toxin alpha-KTx 10.2 OS=Centruroides noxius OX=6878 PE=1 SV=1
+VACVYRTCDKDCTSRKYRSGKCINNACKCYPY
+>sp|P60209|KAX94_HOTTA Potassium channel toxin alpha-KTx 9.4 OS=Hottentotta tamulus OX=34647 PE=1 SV=1
+VGCAECPMHCKGKMAKPTCENEVCKCNIGKKD
+>sp|P60513|U6A_CONER Delta-conotoxin EVIA OS=Conus ermineus OX=55423 PE=1 SV=1
+DDCIKPYGFCSLPILKNGLCCSGACVGVCADL
+>sp|P62522|LPID_ECOLI ilv operon leader peptide OS=Escherichia coli (strain K12) OX=83333 GN=ilvL PE=4 SV=1
+MTALLRVISLVVISVVVIIIPPCGAALGRGKA
+>sp|P69536|G9P_BPFD Tail virion protein G9P OS=Enterobacteria phage fd OX=2847073 GN=IX PE=3 SV=1
+MSVLVYSFASFVLGWCLRSGITYFTRLMETSS
+>sp|P69756|O16D_CONMA Delta-conotoxin-like MVID OS=Conus magus OX=6492 PE=2 SV=1
+EACYNAGTFCGIKPGLCCSAICLSFVCISFDF
+>sp|P80145|FRIH_ANAPL Ferritin heavy chain (Fragment) OS=Anas platyrhynchos OX=8839 GN=FTH PE=1 SV=1
+NVNQSLLELHGAPKYGMAEYLFDKHTLGESDN
+>sp|P80230|ERH_PIG Enhancer of rudimentary homolog (Fragment) OS=Sus scrofa OX=9823 GN=ERH PE=1 SV=1
+RADTQTYQPYNKDWIKEKIYVLLRRQAQQAGK
+>sp|P80403|IAAI_AMAHP Alpha-amylase inhibitor AAI OS=Amaranthus hypochondriacus OX=28502 GN=AAI PE=1 SV=1
+CIPKWNRCGPKMDGVPCCEPYTCTSDYYGNCS
+>sp|P80529|CYSB_FASHE Cathepsin B-like cysteine proteinase (Fragment) OS=Fasciola hepatica OX=6192 PE=1 SV=1
+KPNYKRQFEPFSDELIHYINLEDLPESFDARQ
+>sp|P81078|CYC31_DESAC Cytochrome c3, 10 kDa (Fragment) OS=Desulfuromonas acetoxidans OX=891 PE=1 SV=1
+ADSLTQFDGIKGRYSHEAFYEEKACDSCHLNK
+>sp|P81629|ERP29_TRIVU Endoplasmic reticulum resident protein 29 (Fragment) OS=Trichosurus vulpecula OX=9337 GN=ERP29 PE=1 SV=1
+LHTKGSVPLDTITFYKVIPKHKFVLVKFDTQY
+>sp|P81655|RK1_RABIT Corticostatin-related peptide RK-1 OS=Oryctolagus cuniculus OX=9986 PE=1 SV=1
+MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK
+>sp|P82257|ALL1_ASPFL Allergen Asp fl 1 (Fragment) OS=Aspergillus flavus OX=5059 PE=1 SV=1
+TPSQCTAAQANKCCTGLTNGILNLNVLPALNP
+>sp|P82780|RN2X3_LITCT Ranatuerin-3 OS=Lithobates catesbeianus OX=8400 PE=1 SV=1
+GFLDIINKLGKTFAGHMLDKIKCTIGTCPPSP
+>sp|P82828|RN2A_RANLU Ranatuerin-2La OS=Rana luteiventris OX=58176 PE=1 SV=1
+GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC
+>sp|P82829|RN2B_RANLU Ranatuerin-2Lb OS=Rana luteiventris OX=58176 PE=1 SV=1
+GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC
+>sp|P83172|HCYC_CHEDE Hemocyanin C chain (Fragment) OS=Cherax destructor OX=6723 PE=1 SV=1
+DGSGGASDAQKQHDVNYLLFKVYEDVNDENSP
+>sp|P83420|CEC_OIKKI Cecropin (Fragment) OS=Oiketicus kirbyi OX=201386 PE=1 SV=1
+WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT
+>sp|P83505|ATPB_BRACM ATP synthase subunit beta, chloroplastic (Fragment) OS=Brassica campestris OX=3711 GN=atpB PE=1 SV=1
+KDALVYGQMNEPPGARMRVGLKDGSITSIQAV
+>sp|P83795|PETL_MASLA Cytochrome b6-f complex subunit 6 OS=Mastigocladus laminosus OX=83541 GN=petL PE=1 SV=1
+MILGAVFYIVFIALFFGIAVGIIFAIKSIKLI
+>sp|P83894|TX13_PHONI U13-ctenitoxin-Pn1a OS=Phoneutria nigriventer OX=6918 PE=1 SV=1
+VFCRSNGQQCTSDGQCCYGKCMTAFMGKICMR
+>sp|P83915|TX21_PHOKE U3-ctenitoxin-Pk1a OS=Phoneutria keyserlingi OX=272754 PE=1 SV=1
+AFCKYNGEQCTSDGQCCNGRCRTAFMGKICMG
+>sp|P84016|TX17_PHORI U6-ctenitoxin-Pr1a OS=Phoneutria reidyi OX=272752 PE=1 SV=1
+AFCRFNGQQCTSDGQCCNGRCINAFQGRICIG
+>sp|P84114|RN2A_RANBO Ranatuerin-2BYa OS=Rana boylii OX=160499 PE=1 SV=1
+GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC
+>sp|P84208|ENO_IMPCY Enolase (Fragment) OS=Imperata cylindrica OX=80369 PE=1 SV=1
+SGETEDVTIADIVVGLRIEEELGDAAVYAGAK
+>sp|P84451|ITR2_SECED Trypsin inhibitor 2b OS=Sechium edule OX=184140 PE=1 SV=1
+EEDRKCPKILMRCKRDSDCLAKCTCQESGYCG
+>sp|P84562|RCA_POPEU Ribulose bisphosphate carboxylase/oxygenase activase, chloroplastic (Fragment) OS=Populus euphratica OX=75702 PE=1 SV=1
+LVDTFPGQSIDFFGALREGPPTFEQPAMTIEK
+>sp|P84648|HYFLB_HYBFL Cyclotide Hyfl-B OS=Hybanthus floribundus OX=343459 PE=1 SV=1
+GSPIQCAETCFIGKCYTEELGCTCTAFLCMKN
+>sp|P84730|PS14_PINST Putative leucine-rich repeat protein PS14 (Fragment) OS=Pinus strobus OX=3348 PE=1 SV=1
+CSDGLKGLNALGTLPRKGLNALGTLPWVDLYN
+>sp|P84758|DEF3_PAPHA Defensin-3 OS=Papio hamadryas OX=9557 PE=1 SV=1
+RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR
+>sp|P84877|SPF2_GLOHY Secreted protein F2 (Fragment) OS=Globisporangium hypogynum OX=255163 PE=1 SV=1
+CSYPSKLCNNHRANVNQQRMQQKLIRQQMVER
+>sp|P84928|DMS8_PHYTS Dermaseptin-8 OS=Phyllomedusa tarsius OX=306084 PE=1 SV=1
+SLRGFLKGVGTALAGVGKVVADQFDKLLQAGQ
+>sp|P84990|CB22_POPEU Chlorophyll a-b binding protein 2, chloroplastic (Fragment) OS=Populus euphratica OX=75702 PE=1 SV=1
+SAPQSIWYGPDRPKNRELEVIHSRFGEAVWFK
+>sp|P85032|F256_CTEON U21-ctenitoxin-Co1a OS=Ctenus ornatus OX=406443 PE=1 SV=1
+APCTYPGQQCKSDDECCHGTCKTAFIGRICMR
+>sp|P85512|NAHA1_PALCA Beta-hexosaminidase (Fragment) OS=Palythoa caribaeorum OX=134933 PE=1 SV=1
+GKSSSRPLGDATLGDLDFDIEVTQDYWDDLAR
+>sp|P85800|VARI_AMBVA Variegin OS=Amblyomma variegatum OX=34610 PE=1 SV=1
+SDQGDVAEPKMHKTAPPFDFEAIPEEYLDDES
+>sp|P0ADD9|YJJY_ECOLI Uncharacterized protein YjjY OS=Escherichia coli (strain K12) OX=83333 GN=yjjY PE=4 SV=1
+MTKVRNCVLDALSINVNNIISLVVGTFPQDPTVSKTAVILTILTAT
+>sp|P0C0H8|SRTA_STRPY Lantibiotic streptin OS=Streptococcus pyogenes OX=1314 GN=srtA PE=1 SV=1
+MNNTIKDFDLDLKTNKKDTATPYVGSRYLCTPGSCWKLVCFTTTVK
+>sp|P0C1G1|UP1_URTPI Toxin Up-1 (Fragment) OS=Urticina piscivora OX=386596 PE=1 SV=1
+DENENLYGPNENKAKAKDLTAGASYLTKEAGCTKLQAGCTMYQAYN
+>sp|P0C257|I1B1_CONMA Iota-conotoxin-like M11.1 (Fragment) OS=Conus magus OX=6492 PE=2 SV=1
+GAVPCGKDGRQCRNHADCCNCCPIGTCAPSTNWILPGCSTGQFMTR
+>sp|P0C5Q0|YL54F_YEAST Putative uncharacterized protein YLR154W-F OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YLR154W-F PE=5 SV=1
+MLLPKQKNPFSKLLNFFNDPSAGSPTETLLRLLVPLNDQVCPNSPL
+>sp|P0C5R4|YO83A_YEAST Uncharacterized protein YOL083C-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YOL083C-A PE=1 SV=1
+MRSHFDTEYLGDLARKFKCTISWNYDIRFIVQYKVQRVILITHLNV
+>sp|P0C611|I1B8_CONFI Iota-conotoxin-like Fi11.8 OS=Conus figulinus OX=101301 PE=2 SV=1
+GPSSCKADEEPCEYHADCCNCCLSGICAPSTNWILPGCSTSSFFKI
+>sp|P0C785|RAP1_PLRVW Replication-associated protein OS=Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) OX=12048 PE=3 SV=1
+MTPMRITVWRKRLQQMRPQRKLLKQTQQRRLLHQLQQRKLLQQTSL
+>sp|P0C8T8|ES1HA_ODOHO Esculentin-1HSa OS=Odorrana hosii OX=310666 PE=1 SV=1
+GIFSKFGGKAIKNLFIKGAKNIGKEVGMDVIRTGIDVAGCKIKGEC
+>sp|P0C8W6|NDBX_TITST Pape peptide OS=Tityus stigmurus OX=50344 PE=1 SV=1
+KQLLKEALAPEPAPKPAPEPAPEPAPEPAPEAAPEPAAAAPEAAPE
+>sp|P0CB62|YMIA_ECOLI Protein YmiA OS=Escherichia coli (strain K12) OX=83333 GN=ymiA PE=1 SV=3
+MRLAMPSGNQEPRRDPELKRKAWLAVFLGSALFWVVVALLIWKVWG
+>sp|P0DMT0|MLN_HUMAN Myoregulin OS=Homo sapiens OX=9606 GN=MRLN PE=3 SV=1
+MTGKNWILISTTTPKSLEDEIVGRLLKILFVIFVDLISIIYVVITS
+>sp|P0DP16|COWA_CONCB Contryphan-C (Fragment) OS=Conus caracteristicus OX=89440 PE=1 SV=2
+QVMVQGDGDQPAARNAVPKDDNPGGEAGKFMNVLRRSGCPWEPWCG
+>sp|P0DSK1|TX16A_MYRGU U-myrmeciitoxin(01)-Mg6a OS=Myrmecia gulosa OX=36170 PE=1 SV=1
+MNLKTFCFFLLGIFVTLTVTVIPIANADAEADTFRGPCLKIKGYKC
+>sp|P0DUT0|U661_DORVU U-limacoditoxin(6)-Dv61 OS=Doratifera vulnerans OX=1372962 PE=1 SV=1
+MSKLLVLLMTTALATLAQAISFDCSDKPPECQNDPGCCFDIGITTF
+>sp|P14157|HXB5_SHEEP Homeobox protein Hox-B5 (Fragment) OS=Ovis aries OX=9940 GN=HOXB5 PE=3 SV=1
+SAPDMTGPDGKRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHA
+>sp|P14158|HXD3_SHEEP Homeobox protein Hox-D3 (Fragment) OS=Ovis aries OX=9940 GN=HOXD3 PE=3 SV=1
+RGPDAPGPASKRVRTAYTSAQLVELEKEFHFNRYLWRRRRVEMANP
+>sp|P14159|HXD4_SHEEP Homeobox protein Hox-D4 (Fragment) OS=Ovis aries OX=9940 GN=HOXD4 PE=3 SV=1
+VNSNYTGGEPKRSRTAYTRQQVLELEKEFLFNRYLTRRRRIQHTLT
+>sp|P17323|LPPL_PSEAE Lipopeptide OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=lppL PE=1 SV=1
+MKRLFLSFVALALLAGSIAACGQKGPLYLPDDEKAKKEHSKDRYGF
+>sp|P18263|PSBK_CHLRE Photosystem II reaction center protein K OS=Chlamydomonas reinhardtii OX=3055 GN=psbK PE=1 SV=1
+MTTLALVLAKLPEAYAPFAPIVDVLPVIPVFFILLAFVWQAAVSFR
+>sp|P18922|Y16J_BPT4 Uncharacterized 5.1 kDa protein in Gp52-ac intergenic region OS=Enterobacteria phage T4 OX=10665 GN=y16J PE=4 SV=1
+MIKKILGYSLALAALLVALYYGVMFGLIQVVLFISDVIMALHSLVW
+>sp|P19755|YPC4_ECOLX Uncharacterized 5.3 kDa protein OS=Escherichia coli OX=562 PE=4 SV=1
+MGISPPCYGNWPTLDETVKNVFTCLNFVVVWRVIFNPQRQGSWISC
+>sp|P19864|CYT3_WISFL Cystatin WCPI-3 (Fragment) OS=Wisteria floribunda OX=3922 PE=1 SV=1
+YGNTGGYTPVPDIDDIHVVEIANYAVTEYNKKSGVVAGVNYRFVLK
+>sp|P20833|V11_BPT3 Gene 1.1 protein OS=Enterobacteria phage T3 OX=10759 GN=1.1 PE=4 SV=1
+MRTNFEKFTKRDSVVNEQGEQWQERRDRMKKRHKQQRGNSQKREWN
+>sp|P80410|MK2B_PALPR Metalnikowin-2B OS=Palomena prasina OX=55431 PE=1 SV=1
+VDKPDYRPRPWPRNMI
+>sp|P80460|PSBU_SYNY4 Photosystem II 12 kDa extrinsic protein (Fragment) OS=Synechocystis sp. (strain PCC 6714) OX=1147 GN=psbU PE=1 SV=1
+MLNAVDAKLTTDFGQR
+>sp|P80501|MMPX_SOLTU Unidentified mitochondrial matrix protein (Fragment) OS=Solanum tuberosum OX=4113 PE=1 SV=1
+ASNVPKELVEKGQNRV
+>sp|P80605|DBH3_RHILE DNA-binding protein H3-RL (Fragment) OS=Rhizobium leguminosarum OX=384 PE=1 SV=1
+MNKNELVSAVAERAGL
+>sp|P80744|LE05_BIOGL Hemolymph 65 kDa lectin BG05 (Fragment) OS=Biomphalaria glabrata OX=6526 GN=BG05 PE=1 SV=1
+LEIADLAQYVVDLTAR
+>sp|P80745|LE06_BIOGL Hemolymph 65 kDa lectin BG06 (Fragment) OS=Biomphalaria glabrata OX=6526 GN=BG06 PE=1 SV=1
+FFTTFDKDNDDQQNDN
+>sp|P80762|CWP03_PHAVU 230 kDa cell wall protein (Fragment) OS=Phaseolus vulgaris OX=3885 PE=1 SV=1
+NMYLPPVPPPPVVPTF
+>sp|P81071|TRYP_FELCA Trypsin (Fragment) OS=Felis catus OX=9685 PE=1 SV=1
+FPIDDDDKIVGGYTNR
+>sp|P81343|HBD_CLOPA 3-hydroxybutyryl-CoA dehydrogenase (Fragment) OS=Clostridium pasteurianum OX=1501 GN=hbd PE=1 SV=1
+MKKVHVLGAGTMGAGI
+>sp|P81419|ODPB_SOLTU Pyruvate dehydrogenase E1 component subunit beta, mitochondrial (Fragment) OS=Solanum tuberosum OX=4113 PE=1 SV=1
+ISAVKEMTVRDALNSA
+>sp|P81437|FORM2_MYRGU Formaecin-2 OS=Myrmecia gulosa OX=36170 PE=1 SV=1
+GRPNPVNTKPTPYPRL
+>sp|P81438|FORM1_MYRGU Formaecin-1 OS=Myrmecia gulosa OX=36170 PE=1 SV=1
+GRPNPVNNKPTPHPRL
+>sp|P81835|CT11_RANCI Citropin-1.1 OS=Ranoidea citropa OX=94770 PE=1 SV=1
+GLFDVIKKVASVIGGL
+>sp|P81840|CT12_RANCI Citropin-1.2 OS=Ranoidea citropa OX=94770 PE=1 SV=1
+GLFDIIKKVASVVGGL
+>sp|P82391|AUR24_RANAE Aurein-2.4 OS=Ranoidea aurea OX=8371 PE=1 SV=1
+GLFDIVKKVVGTIAGL
+>sp|P82393|AUR26_RANRN Aurein-2.6 OS=Ranoidea raniformis OX=116057 PE=1 SV=1
+GLFDIAKKVIGVIGSL
+>sp|P82444|CWP36_TOBAC 36 kDa cell wall protein (Fragment) OS=Nicotiana tabacum OX=4097 PE=1 SV=1
+VNDGYLDNGLQEGDFE
+>sp|P82453|RL21_SPIOL 60S ribosomal protein L21 (Fragment) OS=Spinacia oleracea OX=3562 GN=RPL21 PE=1 SV=1
+PAGHGARARTRDLFAR
+>sp|Q0H8Y5|ATP8_USTMA ATP synthase protein 8 OS=Ustilago maydis (strain 521 / FGSC 9021) OX=237631 GN=ATP8 PE=3 SV=1
+MPQLLPFYFVNQISFAFLGLFVLLFVFSKYILPAFVELFVSRMYITKL
+>sp|Q0W4J1|RL40_METAR 50S ribosomal protein L40e OS=Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50) OX=351160 GN=rpl40e PE=3 SV=1
+MARFPEAEARTLNLQICRKCNARNALRATRCRKCGYEGLRPKKKELKK
+>sp|Q1XDD2|YCF17_NEOYE Uncharacterized protein ycf17 OS=Neopyropia yezoensis OX=2788 GN=ycf17 PE=3 SV=1
+MKKSLWLWGFTDSAETWNGRFAMIGFISVIFIEVVTGQGLLYLIGMMS
+>sp|Q25BJ1|Y04_HIS1I Uncharacterized protein ORF4 OS=His1 virus (isolate Australia/Victoria) OX=654912 GN=ORF4 PE=4 SV=1
+MTNKKNWKCAGCKNRYSSFDKEKKDGQLKFNCPNCGHTVRRYTILGGY
+>sp|Q2FS38|RL40_METHJ 50S ribosomal protein L40e OS=Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1) OX=323259 GN=rpl40e PE=3 SV=1
+MARFPEAEARLLNVKICMHCNARNPVRAVSCRKCGYVHLRPKNKDRKA
+>sp|Q2NET4|RL40_METST 50S ribosomal protein L40e OS=Methanosphaera stadtmanae (strain ATCC 43021 / DSM 3091 / JCM 11832 / MCB-3) OX=339860 GN=rpl40e PE=3 SV=1
+MAKFEEAENRMFNIKICLKCNARNPATAKSCRKCGYTGLRFKAKEPRG
+>sp|Q33093|CHLB_STAER Light-independent protochlorophyllide reductase subunit B (Fragment) OS=Stangeria eriopus OX=34343 GN=chlB PE=3 SV=1
+RRLLRDLDIKINQVIPEGGSVKDLKSLPKAWFTLVPYSEVGLMTAMYL
+>sp|Q36257|ATP8_YARLI ATP synthase protein 8 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=ATP8 PE=1 SV=2
+MPQLVPFYFTNQIFYGFASLSVIVYLFSIYILPHYLEIYVTRIFITKT
+>sp|Q36838|ATP8_TRIRU ATP synthase protein 8 OS=Trichophyton rubrum OX=5551 GN=ATP8 PE=3 SV=1
+MPQLIPFFFFNQVVFTLISLSFIFFVFSKYILPWIVRLYVSRNQYNSL
+>sp|Q37928|YO48_BPHK0 Uncharacterized 5.8 kDa protein OS=Escherichia phage HK022 OX=10742 PE=4 SV=1
+MTKQLSPYQDKIHKHILRDRFLSSFKQPGRFRAELEKVKLMQKEKGHE
